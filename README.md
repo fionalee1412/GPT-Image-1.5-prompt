@@ -62,6 +62,44 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
+#### LINE-style Q-version emoji portrait grid
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400065065_gvl1gj.jpg" width="400" alt="LINE-style Q-version emoji portrait grid">
+
+**Prompt:**
+```
+Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown in the reference image, ensuring accurate depiction of their head accessories.
+
+Arrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.
+Use handwritten-style fonts for text.
+Output must be original—avoid direct copying of the reference image.
+Final image should be in 4K resolution, 16:9 aspect ratio.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9af4e684-627f-4da1-83e0-328fae16723c)** | Likes: 2
+
+---
+
+#### character card
+
+<img src="https://cdn.bestnanobananaprompt.com/84wt1s0bqe_1764730483873.jpg" width="400" alt="character card">
+
+**Prompt:**
+```
+画像によるキャラクターシートを作ってください。構成は以下の通り。
+
+・三面図：全身の前・横・後ろで直立不動。
+・クローズアップ写真：顔をクローズアップした写真。
+・それぞれにタイトルを記述して（close-upなど）。
+・アスペクト比は3:2
+
+全ての制作物のインプットとなるため、高解像度でほんものの写真のようにリアルに人物を表現して。肌質や衣服の質感などは最も重要で詳細に表現してください
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0007a13c-163d-488b-95da-d6f93cade7aa)** | Likes: 2
+
+---
+
 #### realistic faces
 
 <img src="https://cdn.bestnanobananaprompt.com/5y8gi5uzhll_1765010001397.png" width="400" alt="realistic faces">
@@ -110,41 +148,16 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
-#### LINE-style Q-version emoji portrait grid
+#### Unplanned paparazzi-style street portrait of a man
 
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400065065_gvl1gj.jpg" width="400" alt="LINE-style Q-version emoji portrait grid">
-
-**Prompt:**
-```
-Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown in the reference image, ensuring accurate depiction of their head accessories.
-
-Arrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.
-Use handwritten-style fonts for text.
-Output must be original—avoid direct copying of the reference image.
-Final image should be in 4K resolution, 16:9 aspect ratio.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9af4e684-627f-4da1-83e0-328fae16723c)** | Likes: 2
-
----
-
-#### character card
-
-<img src="https://cdn.bestnanobananaprompt.com/84wt1s0bqe_1764730483873.jpg" width="400" alt="character card">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400406834_yglr68.jpg" width="400" alt="Unplanned paparazzi-style street portrait of a man">
 
 **Prompt:**
 ```
-画像によるキャラクターシートを作ってください。構成は以下の通り。
-
-・三面図：全身の前・横・後ろで直立不動。
-・クローズアップ写真：顔をクローズアップした写真。
-・それぞれにタイトルを記述して（close-upなど）。
-・アスペクト比は3:2
-
-全ての制作物のインプットとなるため、高解像度でほんものの写真のようにリアルに人物を表現して。肌質や衣服の質感などは最も重要で詳細に表現してください
+Unplanned paparazzi style portrait, an intense, close-up moment capturing a man with striking features as he looks over his shoulder with a confident smirk. Shot from a slightly low angle, showing only his face and shoulders amidst a blurred, bustling crowd. The image feels raw and spontaneous, lit by a harsh flash, high-ISO texture. He's wearing a dark turtleneck and stylish sunglasses, embodying effortless street style chic, the energy and atmosphere reminiscent of Paris Fashion Week chaos.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0007a13c-163d-488b-95da-d6f93cade7aa)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=306b0601-f6cb-44fa-9958-f5f0f6848c79)** | Likes: 1
 
 ---
 
@@ -197,78 +210,34 @@ A wide quote card featuring a famous person, with a brown background and a light
 
 ---
 
-#### Unplanned paparazzi-style street portrait of a man
+#### Beautiful russian girl fitness trainer
 
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400406834_yglr68.jpg" width="400" alt="Unplanned paparazzi-style street portrait of a man">
+<img src="https://cdn.bestnanobananaprompt.com/7jdedi1j53_1765444335307.webp" width="400" alt="Beautiful russian girl fitness trainer">
 
 **Prompt:**
 ```
-Unplanned paparazzi style portrait, an intense, close-up moment capturing a man with striking features as he looks over his shoulder with a confident smirk. Shot from a slightly low angle, showing only his face and shoulders amidst a blurred, bustling crowd. The image feels raw and spontaneous, lit by a harsh flash, high-ISO texture. He's wearing a dark turtleneck and stylish sunglasses, embodying effortless street style chic, the energy and atmosphere reminiscent of Paris Fashion Week chaos.
+Beautiful russian girl fitness trainer, stands and shows her perfect figure to her full height, well - developed muscles, beautiful body, athletic legs and hips, sports legs in leggings, colorful realism, modularity, rich close - ups, uhd image, high attention to detail, high definition and level of detail, --ar 71:121 --s 750 --niji 5
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=306b0601-f6cb-44fa-9958-f5f0f6848c79)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=7343ae41-85ab-428a-815c-5638ef28a6f5)** | Likes: 0
 
 ---
 
-#### A beautiful young woman
+#### Nd Dont Change Their Faces
 
-<img src="https://cdn.bestnanobananaprompt.com/h53swfp996l_1764810616002.jpg" width="400" alt="A beautiful young woman">
-
-**Prompt:**
-```
-A beautiful young woman with long wavy brown hair, wearing a white ribbed crop top and a white pleated mini skirt. She poses gracefully in various compositions, from full body to intimate close-up portraits. The scene is bathed in the dramatic, ethereal glow of a large circular sunset lamp projection, casting vibrant golden-orange and warm yellow light against a cool, dark grey-blue background. Soft, directional lighting highlights her features and the textures of her outfit. The mood is serene and aesthetic, captured with professional studio photography, sharp focus, and high resolution, evoking a stylish, dreamlike atmosphere.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=33178971-ec4a-437d-b589-540a247f1bcc)** | Likes: 0
-
----
-
-#### knolling
-
-<img src="https://cdn.bestnanobananaprompt.com/z35elp4fmno_1764730764056.jpg" width="400" alt="knolling">
+<img src="https://cdn.bestnanobananaprompt.com/g5aegis0fap_1765725794041.jpg" width="400" alt="Nd Dont Change Their Faces">
 
 **Prompt:**
 ```
-Present a clear, directly top-down photograph of [CITY] landmarks as 3D magnets, arranged neatly in parallel lines and right angles, knolling. The objects are realistic miniatures. At the top-center, place the city name as a souvenir magnet, and a handwritten post-it note for the temperature and weather conditions. Incorporate items necessary for today's weather into the knolling. No repeats.
+Create and don't change their faces! 
+"A high-angle close-up selfie shot using direct flash photography with a vintage film aesthetic. In the immediate foreground on the left, a handsome young man looks softly into the camera. He wears a beige sweater. Behind him, a beautiful young woman with long dark hair leans her chin on his shoulder, gazing alluringly at the lens. She has fair skin, soft 'douyin' style makeup and reddish lips, wearing a brown tweed jacket. Several gold bangles (Cartier style) are visible on the wrist in the foreground. The lighting is warm and high-contrast, typical of 90s disposable camera style, with visible film grain and a romantic, intimate mood."
+Lighting: Direct flash, harsh flash, warm lighting.
+Style: Vintage film, 90s aesthetic, disposable camera, Polaroid style.
+Subject Details: Messy wavy hair, pearl necklace on man, dangling earring, tweed fabric, rosy cheeks.
+Angle: Selfie angle, high angle, extreme close-up.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=261bb8f7-6002-4704-9bde-fc9a7082ae5d)** | Likes: 0
-
----
-
-
-### 3D Avatar
-
-#### 3D Blind Box Style Avatar
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
-
-**Prompt:**
-```
-Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
-
----
-
-#### RPG-Style Character Card Creation
-
-<img src="https://cdn.bestnanobananaprompt.com/h4j8tkt21c_1765454536014.png" width="400" alt="RPG-Style Character Card Creation">
-
-**Prompt:**
-```
-Create a digital character card in RPG collectible style.
-The subject is a {Programmer}, standing confidently with tools or symbols relevant to their job.
-Render it in 3D cartoon style, soft lighting, vivid personality.
-Include skill bars or stats like [Skill1 +x], [Skill2 +x, e.g., Creativity +10, UI/UX +8].
-Add a title banner on top and a nameplate on the bottom.
-Frame the card with clean edges like a real figure box.
-Make the background fit the profession's theme.
-Colors: warm highlights, profession-matching hues.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6305c209-733d-4ee5-844c-f7bfa1090b20)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a37ab9b0-3451-4057-a835-e8f9c66232f8)** | Likes: 0
 
 ---
 
@@ -395,46 +364,94 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 
 ---
 
-#### Naive doodle-style subject illustration
+#### Monochrome tough-guy LINE stickers
 
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400073707_nblom9.jpg" width="400" alt="Naive doodle-style subject illustration">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400094846_toibiv.jpg" width="400" alt="Monochrome tough-guy LINE stickers">
 
 **Prompt:**
 ```
-A doodle-style [subject], naive lines, humorous shape exaggeration
+Using the character in the attached image, create 16 black‑and‑white LINE stickers. The stickers should have a wide variety of types and include cool phrases that tough guys would want to use.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9cc4ac9d-8b83-4f8b-b6fc-dd9b761d2143)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fc9048ae-9804-45db-aea8-4698b24243ce)** | Likes: 0
 
 ---
 
-#### Jakarta’s city history
 
-<img src="https://cdn.bestnanobananaprompt.com/b13hh9stryb_1764671294490.jpg" width="400" alt="Jakarta’s city history">
+### 3D Avatar
+
+#### 3D Blind Box Style Avatar
+
+<img src="https://cdn.bestnanobananaprompt.com/awesome_3d_blind_box_style_avatar_1764387306061.png" width="400" alt="3D Blind Box Style Avatar">
 
 **Prompt:**
 ```
-An isometric illustration depicting the layered evolution of Jakarta, from a traditional river-port settlement to a futuristic global megacity, stacked vertically from bottom to top.
-
-The bottom layer, labeled "Sunda Kelapa" (Old Port of Jakarta), shows a historic riverside trading port with wooden stilt houses featuring reddish-brown roofs, traditional *pinisi* sailing ships anchored along wooden docks, bustling market activity with vendors carrying goods, and calm waters lined with palm trees and mangroves.
-
-Above it, the second layer, labeled "Batavia Era" and "《Masa Batavia》", portrays early colonial Batavia with Dutch-influenced architecture—white neoclassical buildings, arched windows, red-tile roofs, old street lamps, horse-drawn carriages, and pedestrians in period clothing. Include landmarks resembling Fatahillah Square, canals with stone bridges, and a vintage phonograph on a pedestal to signal cultural emergence.
-
-The third layer, labeled "Industrial Expansion" and "《Industrialisasi》", represents Jakarta’s growth during the industrial and modernization era: factories with chimneys emitting smoke, early high-rise apartments, busy streets with buses and mikrolets, commuter trains on elevated tracks, and the rise of national landmarks including an early version of Monas (National Monument).
-
-The topmost layer, labeled "Megacity Jakarta" and "《Kota Global》", showcases a futuristic Jakarta skyline dominated by advanced skyscrapers inspired by modern landmarks such as the Selamat Datang statue plaza, Gelora Bung Karno area, and modern towers. Elevated skybridges connect buildings, with flying vehicles, maglev trains, glowing data streams, holographic signage, digital billboards, and a large glowing blue globe floating near the tallest buildings. Add small “AI” holograms integrated into several futuristic structures.
-
-The entire composition is a vertical stack of distinct urban slices in detailed pixel art, using an isometric projection viewed from a slightly high angle, looking down and to the right. All layers are crisp with no depth of field blur.
-
-Lighting transitions from warm natural daylight in the lower historical layers, to vibrant city lights in the mid layers, and finally to luminous futuristic blues, purples, and metallic tones in the upper layer against a dark blue-grey background.
-
-Color grading evolves from earthy browns and greens in the Sunda Kelapa layer, to richer reds, creams, and greens in the Batavia and industrial segments, ending with electric blues, whites, and cool metallics in the megacity layer.
-
-At the very bottom, centered, place a large ornate banner containing the main title:  
-"JAKARTA EVOLUTION", "《Perkembangan Jakarta》", "From Harbour Settlement to Global Megacity", "Dari Pelabuhan Tua ke Kota Global".
+Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f4989fb4-6794-42a0-bb80-e5dae8682ac2)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=56ffe3ba-dcb8-4753-a439-12971a3b8ead)** | Likes: 4
+
+---
+
+#### RPG-Style Character Card Creation
+
+<img src="https://cdn.bestnanobananaprompt.com/h4j8tkt21c_1765454536014.png" width="400" alt="RPG-Style Character Card Creation">
+
+**Prompt:**
+```
+Create a digital character card in RPG collectible style.
+The subject is a {Programmer}, standing confidently with tools or symbols relevant to their job.
+Render it in 3D cartoon style, soft lighting, vivid personality.
+Include skill bars or stats like [Skill1 +x], [Skill2 +x, e.g., Creativity +10, UI/UX +8].
+Add a title banner on top and a nameplate on the bottom.
+Frame the card with clean edges like a real figure box.
+Make the background fit the profession's theme.
+Colors: warm highlights, profession-matching hues.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6305c209-733d-4ee5-844c-f7bfa1090b20)** | Likes: 1
+
+---
+
+#### 3D pixar style collage of woman character
+
+<img src="https://cdn.bestnanobananaprompt.com/92129twdymd_1765444434910.webp" width="400" alt="3D pixar style collage of woman character">
+
+**Prompt:**
+```
+A portrait size of a highly detailed 3x3 grid of expressive 3D animated character poses in a Pixar-style rendering, featuring a caricature of a young woman with medium-length black hair softly curled at the ends, expressive large brown eyes, and a friendly yet cartoonish face with slightly exaggerated features, dressed in a stylish smart-casual outfit consisting of a navy blue fitted blazer, white silk blouse with a bow tie collar, knee-length pencil skirt, and delicate earrings, shown in half-body view from the waist up against a plain light gray background.
+
+Each pose is isolated in its own cell under soft, balanced lighting with subtle shadows for depth, showcasing high-resolution textures on fabric, hair, and skin, and vibrant Pixar-style colors. The character’s overall design should feel charming, approachable, and expressive — with consistent proportions, smooth skin shading, and detailed fabric folds for realism.
+
+Top Row (from left to right):
+
+Cheerful thumbs-up pose — bright open-mouthed smile, sparkling wide eyes, right hand giving a thumbs-up near shoulder level, left arm relaxed; blazer sleeve slightly creased at the elbow.
+
+Confident arms-crossed pose — raised brows, lips forming a small knowing smile, determined eyes; arms folded across chest naturally; hair framing her face slightly.
+
+Joyful laughing pose — closed eyes in delight, wide open mouth showing teeth, right hand touching chin playfully, left hand holding a small brown handbag; subtle motion in hair strands for a lively feel.
+
+Middle Row (from left to right):
+
+Surprised reaction pose — wide eyes, raised brows, open mouth in a soft gasp, both hands raised palms out in a “wait—what?” gesture; sleeves slightly wrinkled for realism.
+
+Angry confrontation pose — fierce eyes, furrowed brows, clenched teeth, right fist forward, left hand gripping the edge of her blazer lapel in frustration; slight forward lean for intensity.
+
+Thoughtful doubt pose — gentle frown, lips curved downward, eyes looking sideways; right hand supporting chin, left arm at side; reflective light adds mood to the scene.
+
+Bottom Row (from left to right):
+
+Confused shrug pose — puzzled expression with slightly open mouth, neutral eyes, shoulders raised, both hands upturned; natural fold lines across blazer shoulders.
+
+Tired yawning pose — half-closed sleepy eyes, wide open mouth covered politely by hand, shoulders slightly slouched; soft rim light emphasizes silhouette.
+
+Friendly waving pose — warm wide-eyed cheerful smile, right hand waving hello, left arm relaxed, subtle blush on cheeks to enhance warmth.
+
+Ensure the overall composition is a clean collage with no borders between cells, a symmetrical layout, consistent proportions (short stature, soft round face), and a whimsical, high-quality CGI animation aesthetic reminiscent of Disney or DreamWorks female lead characters.
+Pay attention to realistic fabric details (silk sheen on blouse, soft texture on blazer), gentle reflections in the eyes, and expressive facial animations that highlight emotional range and charm.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=7cdb2bc5-c2ff-4e77-8b3f-a3624d113665)** | Likes: 0
 
 ---
 
@@ -459,19 +476,6 @@ Generate a promotional poster for the skin care essential oil in Figure 1，AR 2
 
 ---
 
-#### Ultra Detailed Anime Scale Figure
-
-<img src="https://cdn.bestnanobananaprompt.com/cphbonanpqj_1765291779732.webp" width="400" alt="Ultra Detailed Anime Scale Figure">
-
-**Prompt:**
-```
-Ultra detailed anime scale figure, professional product photography, adult character (21+), tasteful, non-explicit, no nudity, short silver hair with side-swept bangs, emerald eyes with seductive gaze, elegant black lingerie-inspired set with tasteful coverage, sheer chiffon cape flowing behind, garter-style details over sheer stockings, high heels, kneeling-on-velvet pose with one knee up and back arched slightly, camera from slightly below, medium shot, soft side lighting with golden highlights, deep wine red bokeh background, luxurious boudoir vibe (tasteful)
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48a4a56d-f17f-4820-a1f3-8bc033f2e206)** | Likes: 1
-
----
-
 #### Sparkling water product main image
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400416849_uav3wp.jpg" width="400" alt="Sparkling water product main image">
@@ -485,209 +489,32 @@ Design a main ecommerce detail page image for a lemon-flavored sparkling water c
 
 ---
 
+#### Ultra Detailed Anime Scale Figure
 
-### Photorealistic
-
-#### Golden hour portrait of a woman in black lace dress
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
+<img src="https://cdn.bestnanobananaprompt.com/cphbonanpqj_1765291779732.webp" width="400" alt="Ultra Detailed Anime Scale Figure">
 
 **Prompt:**
 ```
-Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
+Ultra detailed anime scale figure, professional product photography, adult character (21+), tasteful, non-explicit, no nudity, short silver hair with side-swept bangs, emerald eyes with seductive gaze, elegant black lingerie-inspired set with tasteful coverage, sheer chiffon cape flowing behind, garter-style details over sheer stockings, high heels, kneeling-on-velvet pose with one knee up and back arched slightly, camera from slightly below, medium shot, soft side lighting with golden highlights, deep wine red bokeh background, luxurious boudoir vibe (tasteful)
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48a4a56d-f17f-4820-a1f3-8bc033f2e206)** | Likes: 1
 
 ---
 
-#### Restored pyramids and Sphinx
 
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400309555_6hsii3.jpg" width="400" alt="Restored pyramids and Sphinx">
+### Nostalgic
 
-**Prompt:**
-```
-a photo of the pyramids and sphinx, but how they looked when they were originally built, the sphinx's face is perfect
-```
+#### 1990s Camera Style Portrait
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=31b193b1-b84f-4238-ad2d-000b79e7d43b)** | Likes: 1
-
----
-
-#### Editorial denim portrait preserving face identity
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400072786_hcexn2.jpg" width="400" alt="Editorial denim portrait preserving face identity">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_1990s_camera_style_portrait_1764387201271.jpg" width="400" alt="1990s Camera Style Portrait">
 
 **Prompt:**
 ```
-{
-  "photo": {
-    "type": "editorial_fashion_photo",
-    "quality": "8k photorealistic",
-    "lens": "50mm shallow depth of field",
-    "composition": "medium portrait, editorial framing, no text, no watermark",
-    "face": {
-      "preserve_original": true,
-      "reference_match": true,
-      "description": "The model's face must remain 100% identical to the provided reference picture in all facial features, proportions, makeup style, and expression."
-    },
-    "model_pose": {
-      "position": "seated",
-      "legs": "relaxed pose with one leg bent",
-      "hands": "one hand supporting the head",
-      "expression": "calm, minimalist mood"
-    },
-    "wardrobe": {
-      "jacket": {
-        "type": "cream shearling jacket",
-        "texture": "shaggy, fluffy, tactile"
-      },
-      "shirt": {
-        "type": "denim shirt",
-        "layered": true
-      },
-      "pants": {
-        "type": "light blue jeans"
-      },
-      "boots": {
-        "type": "black leather Chelsea boots",
-        "texture": "smooth polished leather"
-      },
-      "socks": {
-        "color": "beige"
-      }
-    },
-    "textures": {
-      "emphasis": [
-        "fluffy shearling fibers",
-        "rugged denim fabric",
-        "smooth leather boots",
-        "visible seams",
-        "visible stitches"
-      ]
-    },
-    "environment": {
-      "backdrop": "clean light gray studio backdrop",
-      "lighting": {
-        "style": "soft natural studio lighting",
-        "key_light": "gentle side key light",
-        "fill_light": "subtle fill",
-        "shadows": "soft shadows"
-      }
-    },
-    "color_grade": {
-      "type": "cinematic",
-      "balance": "neutral warm-cool tone balance"
-    }
-  }
-}
+Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=07d809ff-ebf8-4694-952b-0c383db86546)** | Likes: 1
-
----
-
-#### Monochrome cinematic portrait of young woman
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400193713_9dkfv2.jpg" width="400" alt="Monochrome cinematic portrait of young woman">
-
-**Prompt:**
-```
-A cinematic, ultra-realistic monochrome portrait of a young woman with expressive eyes and a calm, intense gaze. Short, dark, neatly styled hair, striking eyes with reflective highlights and highly expressive look, fair complexion with subtle freckles and realistic texture, and softly defined natural lips. Expression is calm, intense, with a direct gaze. She wears black attire with a white textured collar creating strong contrast. Background is a smooth monochrome gradient, minimalist, drawing focus to the face. Lighting is soft but high-contrast monochrome, with gentle highlights on facial features and subtle shadow depth, creating a cinematic, clean, refined effect. Close-up portrait framing, ultra-realistic, high-resolution, with fine tonal range, sharp focus on eyes and facial details and a smooth background gradient. Overall aesthetic is minimalist, artistic, and elegant, with high texture detail, crisp monochrome rendering, and premium realism.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c454f765-12fb-4589-8912-8f5c95524a1a)** | Likes: 1
-
----
-
-#### Photoreal K-pop selfie on rooftop
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400278530_m2ni10.jpg" width="400" alt="Photoreal K-pop selfie on rooftop">
-
-**Prompt:**
-```
-{
-  "subject": {
-    "identity": "K-pop girl-group lead vocalist, stage name: LUNA",
-    "age": 21,
-    "ethnicity": "Korean",
-    "hair": {
-      "style": "high ponytail, bubble-gum pink with 3 cm ash-rose root fade",
-      "texture": "glass-shine, 2 mm fly-aways lit neon",
-      "accessory": "heart-shaped rhinestone hair-tie, 5 mm stones catching flash"
-    },
-    "makeup": {
-      "skin": "luminous cushion-foundation, 0.1 mm pores visible on cheek",
-      "eyes": "foiled rose-gold shadow to brow bone, 4 mm silver glitter under tear duct, false lashes 12 mm outer flare",
-      "liner": "sharp 45° wing, 0.5 mm gap filled with white",
-      "lips": "gradient cherry inside, blurred to petal outside, center gloss 1 mm thick",
-      "blush": "cool pink swept high on cheekbone, reflecting phone flash"
-    },
-    "pose": {
-      "head": "tilted 15° right, chin down for V-line",
-      "eyes": "looking up at phone lens, aegyo-sal highlight 2 mm",
-      "mouth": "tiny heart-shaped pout, 3 mm gap between lips",
-      "hand": {
-        "device": "iPhone 15 Pro in glittery lilac case, lens ring 3 rhinestones missing",
-        "grip": "three fingers behind, pinky extended, nails almond nude with micro-sequins",
-        "angle": "camera held 30 cm above eye level, arm elongated"
-      }
-    },
-    "attire": {
-      "top": "cropped pastel-lavender hoodie, raw hem, 1 cm sweat bead at collar",
-      "neck": "layered silver chains, shortest choker 1 cm above collarbone",
-      "earrings": "asymmetrical star and moon, 8 mm, swinging from head tilt"
-    },
-    "lighting": {
-      "key": "built-in phone flash, 6500 K, overexposed nose tip",
-      "fill": "LED ring-light clipped to phone, 5600 K, circular catchlight in eyes",
-      "background_bokeh": "city-night hexagonals 2 stops under"
-    }
-  },
-  "background": {
-    "location": "Seoul rooftop café, 23rd floor, 21:17",
-    "depth": "out-of-focus neon signs: purple "카페" & pink "OPEN", 3 cm blur",
-    "sky": "clear indigo, 2% remaining sunset orange on horizon",
-    "props": "frosted glass railing, fairy-light string 5 cm foreground, 1 bulb blown"
-  },
-  "camera": {
-    "mode": "portrait, 3× zoom, f/1.78, 1/120 s, ISO 250",
-    "filter": "built-in "Bright" +10, skin smoothen off",
-    "artifacts": "slight purple fringing on earring edge, keep"
-  },
-  "output": "photoreal, 8 K, keep flash glare on cheek, retain vertical phone ratio 9:16, no watermark"
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d08908d9-06d3-4e5e-b329-1c823176f6f0)** | Likes: 1
-
----
-
-#### Ultra-realistic Roronoa Zoro portrait
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400115278_x7cg9l.jpg" width="400" alt="Ultra-realistic Roronoa Zoro portrait">
-
-**Prompt:**
-```
-Ultra-realistic Roronoa Zoro portrait.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0600fead-4cd9-40ed-a114-6c6a1d0ba9bd)** | Likes: 1
-
----
-
-#### Cinematic fashion editorial in a windstorm
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400410398_jw4lph.jpg" width="400" alt="Cinematic fashion editorial in a windstorm">
-
-**Prompt:**
-```
-High-fashion cinematic editorial portrait, medium shot. A subject facing the camera caught in a chaotic windstorm on a metropolitan street. Hundreds of flying newspapers swirling in the air, debris, heavy horizontal motion blur on the background and papers to convey intense speed and wind. The subject is wearing a [INSERT_OUTFIT_DETAILS_HERE]. The face is kept in sharp focus with hyper-realistic skin texture and dramatic lighting, while the environment is blurred. Vogue aesthetic, 8k resolution, masterpiece, depth of field, freeze-frame action shot.
-
-negative_prompt: static, calm, still air, blurry face, distorted features, cartoon, illustration, 3d render, bad anatomy, watermark, low quality, noise, grain, ugly, deformed.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6cceb51-9089-44cf-a704-09019941a4b5)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=41356d88-1046-479a-a5d0-25e751e7f931)** | Likes: 2
 
 ---
 
@@ -804,20 +631,6 @@ Create a mid motion actionscene where both subject are in focuswith aThree-Quart
 
 ---
 
-#### Character Equipment
-
-<img src="https://cdn.bestnanobananaprompt.com/eo4xfymkxr_1764673370812.jpg" width="400" alt="Character Equipment">
-
-**Prompt:**
-```
-create image
-CHARACTER plus equipment BLUEPRINT: Geralt of Rivia
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1ee9decf-ce90-485a-8c58-323aab564e1e)** | Likes: 1
-
----
-
 #### 3D Q
 
 <img src="https://cdn.bestnanobananaprompt.com/4y8v4icbvc9_1764730907411.jpg" width="400" alt="3D Q">
@@ -829,6 +642,20 @@ CHARACTER plus equipment BLUEPRINT: Geralt of Rivia
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=200ed5d9-0bc9-4426-b38f-406fad5d4e09)** | Likes: 1
+
+---
+
+#### Character Equipment
+
+<img src="https://cdn.bestnanobananaprompt.com/eo4xfymkxr_1764673370812.jpg" width="400" alt="Character Equipment">
+
+**Prompt:**
+```
+create image
+CHARACTER plus equipment BLUEPRINT: Geralt of Rivia
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1ee9decf-ce90-485a-8c58-323aab564e1e)** | Likes: 1
 
 ---
 
@@ -861,45 +688,6 @@ rare.jpg
 
 ---
 
-#### Conceptual Visualization
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_conceptual_visualization_1764387231034.png" width="400" alt="Conceptual Visualization">
-
-**Prompt:**
-```
-How engineers see the San Francisco Bridge
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2e01c2c1-530b-49ed-8d06-775ecbd5682e)** | Likes: 0
-
----
-
-#### Coordinate Visualization
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_coordinate_visualization_1764387221369.png" width="400" alt="Coordinate Visualization">
-
-**Prompt:**
-```
-35.6586° N, 139.7454° E at 19:00
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=90a14d75-3a2d-4c8a-8a3f-7a97c65c48bd)** | Likes: 0
-
----
-
-#### Recursive Visuals (Droste Effect)
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_recursive_visuals__droste_effe_1764387218421.png" width="400" alt="Recursive Visuals (Droste Effect)">
-
-**Prompt:**
-```
-recursive image of an orange cat sitting in an office chair holding up an iPad. On the iPad is the same cat in the same scene holding up the same iPad. Repeated on each iPad.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0eaa1243-5077-4e16-b236-c77425160202)** | Likes: 0
-
----
-
 #### Aging Through the Years
 
 <img src="https://cdn.bestnanobananaprompt.com/awesome_aging_through_the_years_1764387214780.png" width="400" alt="Aging Through the Years">
@@ -928,37 +716,227 @@ First one to pull this off. First take. Even Waldo is there.
 
 ---
 
+#### Multi-Subject Compositing
 
-### Nostalgic
-
-#### 1990s Camera Style Portrait
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_1990s_camera_style_portrait_1764387201271.jpg" width="400" alt="1990s Camera Style Portrait">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_multi_subject_compositing_1764387242007.png" width="400" alt="Multi-Subject Compositing">
 
 **Prompt:**
 ```
-Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting. The 35mm lens flash creates a nostalgic glow.
+an office team photo, everyone making a silly face
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=41356d88-1046-479a-a5d0-25e751e7f931)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a100f3af-bf8f-4607-abed-98010cf1dcc5)** | Likes: 0
+
+---
+
+
+### Photorealistic
+
+#### Golden hour portrait of a woman in black lace dress
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
+
+**Prompt:**
+```
+Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 2
+
+---
+
+#### Monochrome cinematic portrait of young woman
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400193713_9dkfv2.jpg" width="400" alt="Monochrome cinematic portrait of young woman">
+
+**Prompt:**
+```
+A cinematic, ultra-realistic monochrome portrait of a young woman with expressive eyes and a calm, intense gaze. Short, dark, neatly styled hair, striking eyes with reflective highlights and highly expressive look, fair complexion with subtle freckles and realistic texture, and softly defined natural lips. Expression is calm, intense, with a direct gaze. She wears black attire with a white textured collar creating strong contrast. Background is a smooth monochrome gradient, minimalist, drawing focus to the face. Lighting is soft but high-contrast monochrome, with gentle highlights on facial features and subtle shadow depth, creating a cinematic, clean, refined effect. Close-up portrait framing, ultra-realistic, high-resolution, with fine tonal range, sharp focus on eyes and facial details and a smooth background gradient. Overall aesthetic is minimalist, artistic, and elegant, with high texture detail, crisp monochrome rendering, and premium realism.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c454f765-12fb-4589-8912-8f5c95524a1a)** | Likes: 1
+
+---
+
+#### Photoreal K-pop selfie on rooftop
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400278530_m2ni10.jpg" width="400" alt="Photoreal K-pop selfie on rooftop">
+
+**Prompt:**
+```
+{
+  "subject": {
+    "identity": "K-pop girl-group lead vocalist, stage name: LUNA",
+    "age": 21,
+    "ethnicity": "Korean",
+    "hair": {
+      "style": "high ponytail, bubble-gum pink with 3 cm ash-rose root fade",
+      "texture": "glass-shine, 2 mm fly-aways lit neon",
+      "accessory": "heart-shaped rhinestone hair-tie, 5 mm stones catching flash"
+    },
+    "makeup": {
+      "skin": "luminous cushion-foundation, 0.1 mm pores visible on cheek",
+      "eyes": "foiled rose-gold shadow to brow bone, 4 mm silver glitter under tear duct, false lashes 12 mm outer flare",
+      "liner": "sharp 45° wing, 0.5 mm gap filled with white",
+      "lips": "gradient cherry inside, blurred to petal outside, center gloss 1 mm thick",
+      "blush": "cool pink swept high on cheekbone, reflecting phone flash"
+    },
+    "pose": {
+      "head": "tilted 15° right, chin down for V-line",
+      "eyes": "looking up at phone lens, aegyo-sal highlight 2 mm",
+      "mouth": "tiny heart-shaped pout, 3 mm gap between lips",
+      "hand": {
+        "device": "iPhone 15 Pro in glittery lilac case, lens ring 3 rhinestones missing",
+        "grip": "three fingers behind, pinky extended, nails almond nude with micro-sequins",
+        "angle": "camera held 30 cm above eye level, arm elongated"
+      }
+    },
+    "attire": {
+      "top": "cropped pastel-lavender hoodie, raw hem, 1 cm sweat bead at collar",
+      "neck": "layered silver chains, shortest choker 1 cm above collarbone",
+      "earrings": "asymmetrical star and moon, 8 mm, swinging from head tilt"
+    },
+    "lighting": {
+      "key": "built-in phone flash, 6500 K, overexposed nose tip",
+      "fill": "LED ring-light clipped to phone, 5600 K, circular catchlight in eyes",
+      "background_bokeh": "city-night hexagonals 2 stops under"
+    }
+  },
+  "background": {
+    "location": "Seoul rooftop café, 23rd floor, 21:17",
+    "depth": "out-of-focus neon signs: purple "카페" & pink "OPEN", 3 cm blur",
+    "sky": "clear indigo, 2% remaining sunset orange on horizon",
+    "props": "frosted glass railing, fairy-light string 5 cm foreground, 1 bulb blown"
+  },
+  "camera": {
+    "mode": "portrait, 3× zoom, f/1.78, 1/120 s, ISO 250",
+    "filter": "built-in "Bright" +10, skin smoothen off",
+    "artifacts": "slight purple fringing on earring edge, keep"
+  },
+  "output": "photoreal, 8 K, keep flash glare on cheek, retain vertical phone ratio 9:16, no watermark"
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d08908d9-06d3-4e5e-b329-1c823176f6f0)** | Likes: 1
+
+---
+
+#### Cinematic fashion editorial in a windstorm
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400410398_jw4lph.jpg" width="400" alt="Cinematic fashion editorial in a windstorm">
+
+**Prompt:**
+```
+High-fashion cinematic editorial portrait, medium shot. A subject facing the camera caught in a chaotic windstorm on a metropolitan street. Hundreds of flying newspapers swirling in the air, debris, heavy horizontal motion blur on the background and papers to convey intense speed and wind. The subject is wearing a [INSERT_OUTFIT_DETAILS_HERE]. The face is kept in sharp focus with hyper-realistic skin texture and dramatic lighting, while the environment is blurred. Vogue aesthetic, 8k resolution, masterpiece, depth of field, freeze-frame action shot.
+
+negative_prompt: static, calm, still air, blurry face, distorted features, cartoon, illustration, 3d render, bad anatomy, watermark, low quality, noise, grain, ugly, deformed.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6cceb51-9089-44cf-a704-09019941a4b5)** | Likes: 1
+
+---
+
+#### Restored pyramids and Sphinx
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400309555_6hsii3.jpg" width="400" alt="Restored pyramids and Sphinx">
+
+**Prompt:**
+```
+a photo of the pyramids and sphinx, but how they looked when they were originally built, the sphinx's face is perfect
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=31b193b1-b84f-4238-ad2d-000b79e7d43b)** | Likes: 1
+
+---
+
+#### Ultra-realistic Roronoa Zoro portrait
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400115278_x7cg9l.jpg" width="400" alt="Ultra-realistic Roronoa Zoro portrait">
+
+**Prompt:**
+```
+Ultra-realistic Roronoa Zoro portrait.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0600fead-4cd9-40ed-a114-6c6a1d0ba9bd)** | Likes: 1
+
+---
+
+#### Editorial denim portrait preserving face identity
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400072786_hcexn2.jpg" width="400" alt="Editorial denim portrait preserving face identity">
+
+**Prompt:**
+```
+{
+  "photo": {
+    "type": "editorial_fashion_photo",
+    "quality": "8k photorealistic",
+    "lens": "50mm shallow depth of field",
+    "composition": "medium portrait, editorial framing, no text, no watermark",
+    "face": {
+      "preserve_original": true,
+      "reference_match": true,
+      "description": "The model's face must remain 100% identical to the provided reference picture in all facial features, proportions, makeup style, and expression."
+    },
+    "model_pose": {
+      "position": "seated",
+      "legs": "relaxed pose with one leg bent",
+      "hands": "one hand supporting the head",
+      "expression": "calm, minimalist mood"
+    },
+    "wardrobe": {
+      "jacket": {
+        "type": "cream shearling jacket",
+        "texture": "shaggy, fluffy, tactile"
+      },
+      "shirt": {
+        "type": "denim shirt",
+        "layered": true
+      },
+      "pants": {
+        "type": "light blue jeans"
+      },
+      "boots": {
+        "type": "black leather Chelsea boots",
+        "texture": "smooth polished leather"
+      },
+      "socks": {
+        "color": "beige"
+      }
+    },
+    "textures": {
+      "emphasis": [
+        "fluffy shearling fibers",
+        "rugged denim fabric",
+        "smooth leather boots",
+        "visible seams",
+        "visible stitches"
+      ]
+    },
+    "environment": {
+      "backdrop": "clean light gray studio backdrop",
+      "lighting": {
+        "style": "soft natural studio lighting",
+        "key_light": "gentle side key light",
+        "fill_light": "subtle fill",
+        "shadows": "soft shadows"
+      }
+    },
+    "color_grade": {
+      "type": "cinematic",
+      "balance": "neutral warm-cool tone balance"
+    }
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=07d809ff-ebf8-4694-952b-0c383db86546)** | Likes: 1
 
 ---
 
 
 ### Comic
-
-#### 4-panel RPG manga of original character Anna
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400220848_bnaz2g.jpg" width="400" alt="4-panel RPG manga of original character Anna">
-
-**Prompt:**
-```
-This girl is my original character, "Anna." She is the female warrior holding a sword in the second image. Please create a 4-panel manga with an RPG game-style world. The panels are arranged vertically. The dialogue should be in Japanese.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=88d7dc84-b595-4618-a63d-1c153f5cbfd6)** | Likes: 1
-
----
 
 #### 4‑panel manga of a girl streaming from a yakuza mansion
 
@@ -974,6 +952,19 @@ Hoshina speaks in first person as “Atashi,” and she is a strong‑willed, se
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=223e83a6-b444-4bd2-a9f0-ab962301a766)** | Likes: 1
+
+---
+
+#### 4-panel RPG manga of original character Anna
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400220848_bnaz2g.jpg" width="400" alt="4-panel RPG manga of original character Anna">
+
+**Prompt:**
+```
+This girl is my original character, "Anna." She is the female warrior holding a sword in the second image. Please create a 4-panel manga with an RPG game-style world. The panels are arranged vertically. The dialogue should be in Japanese.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=88d7dc84-b595-4618-a63d-1c153f5cbfd6)** | Likes: 1
 
 ---
 
@@ -1004,22 +995,6 @@ Create a Japanese 4-panel gag manga showing this young Japanese woman, “Nanami
 ---
 
 
-### Cinematic
-
-#### Emotional Film Photography
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
-
-**Prompt:**
-```
-Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 1
-
----
-
-
 ### Professional
 
 #### One-Click Business Photo
@@ -1036,27 +1011,23 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 ---
 
 
-### Minimalist
+### Cinematic
 
-#### Cityprague
+#### Emotional Film Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/1x9fyiu2jss_1765159576350.jpg" width="400" alt="Cityprague">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
 
 **Prompt:**
 ```
-CITY=Prague,Czechia
-
-Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
-Use a clean, minimalistic composition with a soft, solid-colored background.
-
-At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
-All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
-Square 1080x1080 dimension.
+Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a38650ce-5168-4a35-8212-e576170928f7)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 1
 
 ---
+
+
+### Minimalist
 
 #### Inside the sound
 
@@ -1154,37 +1125,112 @@ Square 1080x1080 dimension.
 
 ---
 
+#### Cityprague
 
-### E-commerce
-
-#### Virtual Model Try-On
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_virtual_model_try_on_1764387261025.png" width="400" alt="Virtual Model Try-On">
+<img src="https://cdn.bestnanobananaprompt.com/1x9fyiu2jss_1765159576350.jpg" width="400" alt="Cityprague">
 
 **Prompt:**
 ```
-Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic full-body fashion photo where the model is wearing the garment. Crucial Fit Details : The [T-shirt/Jacket] must drape naturally on the model's body, conforming to their posture and creating realistic folds and wrinkles . High-Fidelity Preservation : Preserve the original fabric texture, color, and any logos from Image 1 with extreme accuracy. Seamless Integration : Blend the garment into Image 2 by perfectly matching the ambient lighting, color temperature, and shadow direction . Photography Style : Clean e-commerce lookbook, shot on a Canon EOS R5 with a 50mm f/1.8 lens for a natural, professional look.
+CITY=Prague,Czechia
+
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f6ef41f5-42b5-46b0-b049-01974542e0f7)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a38650ce-5168-4a35-8212-e576170928f7)** | Likes: 1
+
+---
+
+#### Clean infographic style constraints in Japanese
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400159216_53dmmy.jpg" width="400" alt="Clean infographic style constraints in Japanese">
+
+**Prompt:**
+```
+Use extremely little text and focus on graphical expression. Suppress Japanese character garbling. Use Hiragino Gothic as the main font. Keep the content as is, but make the colors and design similar to Microsoft 365. Use a flat and simple design.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=769f854d-eeb5-4994-a957-31be3356ff62)** | Likes: 0
 
 ---
 
 
-### Fashion
+### Image Editing
 
-#### Victoria's Secret Style Photoshoot
+#### An elegant young woman
 
-<img src="https://cdn.bestnanobananaprompt.com/awesome_victoria_s_secret_style_photos_1764387198409.jpg" width="400" alt="Victoria's Secret Style Photoshoot">
+<img src="https://cdn.bestnanobananaprompt.com/ncds13ga3go_1765725891008.jpg" width="400" alt="An elegant young woman">
 
 **Prompt:**
 ```
-Create a glamorous photoshoot in the style of Victoria's Secret. A young woman attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) stands almost sideways, slightly bent forward, during the final preparation for the show. Makeup artists apply lipstick to her (only her hands are visible in the frame). She is wearing a corset decorated with beaded embroidery and crystals with a short fluffy skirt, as well as large feather wings. The image has a "backstage" effect.
-
-The background is a darkly lit room, probably under the podium. The main emphasis is on the girl's face and the details of her costume. Emphasize the expressiveness of the gaze and the luxurious look of the outfit. The photo is lit by a flash from the camera, which emphasizes the shine of the beads and crystals on the corset, as well as the girl's shiny skin. Victoria's Secret style: sensuality, luxury, glamour. Very detailed. Important: do not change the face.
+{
+  "prompt": {
+    "subject": "An elegant young woman, mid-shot, with dark wavy hair and fair complexion. She is wearing a form-fitting, ruched black mini-dress with a square neckline and long, sheer mesh sleeves. Her pose is subtly glamorous, with one hand gently resting on the back of her head, looking off-camera to the left. She is holding a small, structured black handbag adorned with a large, prominent silver rhinestone bow.",
+    "setting": "A luxurious, upscale interior hallway, likely a hotel or high-end apartment. The walls are panelled with polished, light-colored marble or stone (beige/creamy tones). The flooring is a refined patterned tile. In the background, there is an elevator or mirrored section, and a marble console table with a large, ornate mirror above it. A warm wooden door frames the right side of the image.",
+    "style": [
+      "High-fashion photography",
+      "Editorial glamour",
+      "Hyperrealistic render",
+      "Cinematic realism",
+      "Sharp focus"
+    ],
+    "lighting": "Warm, soft golden ambient lighting from recessed overhead fixtures. Subtle key light illuminating the subject's face and dress, creating soft, flattering shadows. High dynamic range.",
+    "camera_details": {
+      "type": "DSLR photo",
+      "focal_length": "85mm",
+      "aperture": "f/2.0",
+      "depth_of_field": "Shallow DoF (bokeh background)",
+      "angle": "Eye-level medium shot"
+    }
+  },
+  "negative_prompt": [
+    "Blurry",
+    "Low resolution",
+    "Watermark",
+    "Deformed hands",
+    "Bad anatomy",
+    "Poorly drawn face",
+    "Cartoon",
+    "Painting",
+    "Unrealistic texture"
+  ]
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3f6b589f-f82f-4b5c-ac7e-433c805538a1)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=4c3d4ed4-523d-4f9c-880c-518d5561b92b)** | Likes: 0
+
+---
+
+#### Image Of Magazine Feature Article Travel Guide Page
+
+<img src="https://cdn.bestnanobananaprompt.com/whan3le1pid_1765728145957.jpg" width="400" alt="Image Of Magazine Feature Article Travel Guide Page">
+
+**Prompt:**
+```
+Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [Plateau of Gorgoroth in Mordor]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=11153ccb-4d0a-4d73-b408-740a6a7657a4)** | Likes: 0
+
+---
+
+
+### Infographic
+
+#### Diagram explaining how to walk beautifully
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400157685_e5uky2.jpg" width="400" alt="Diagram explaining how to walk beautifully">
+
+**Prompt:**
+```
+Create a diagram showing how to walk beautifully.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1b8441f4-e918-40d4-8c18-21fcb7d9b517)** | Likes: 0
 
 ---
 
