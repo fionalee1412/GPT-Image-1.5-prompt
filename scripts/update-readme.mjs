@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Script to fetch prompts from Supabase and update README.md
+ * Script to fetch GPT Image 1.5 prompts from Supabase and update README.md
  *
  * Usage: node scripts/update-readme.mjs
  *
@@ -21,7 +21,7 @@ const __dirname = path.dirname(__filename);
 // Configuration
 const SUPABASE_URL = process.env.SUPABASE_URL || 'https://tsawdbxjjbcdoiqohjyj.supabase.co';
 const SUPABASE_KEY = process.env.SUPABASE_KEY;
-const WEBSITE_URL = 'https://bestnanobananaprompt.com';
+const WEBSITE_URL = 'https://bestnanobananaprompt.com/gpt-image-1.5';
 const MAX_ITEMS = 50; // Maximum items to show in README
 
 if (!SUPABASE_KEY) {
@@ -32,13 +32,14 @@ if (!SUPABASE_KEY) {
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 async function fetchPrompts() {
-  console.log('Fetching prompts from database...');
+  console.log('Fetching GPT Image 1.5 prompts from database...');
 
-  const { data, error } = await supabase
+  const { data, error} = await supabase
     .from('content_items')
     .select('*')
     .eq('status', 'approved')
     .eq('type', 'image')
+    .eq('category', 'gpt-image-1.5')
     .order('likes_count', { ascending: false })
     .limit(MAX_ITEMS);
 
@@ -47,7 +48,7 @@ async function fetchPrompts() {
     throw error;
   }
 
-  console.log(`Fetched ${data.length} prompts`);
+  console.log(`Fetched ${data.length} GPT Image 1.5 prompts`);
   return data;
 }
 
@@ -71,7 +72,7 @@ function generateGalleryTable(items) {
     const imageUrl = item.image_url || '';
     const prompt = escapeMarkdown(truncatePrompt(item.prompt || '', 80));
     const style = item.style || '-';
-    const detailLink = `${WEBSITE_URL}/gallery?id=${item.id}`;
+    const detailLink = `${WEBSITE_URL}?id=${item.id}`;
 
     // Use a small preview image
     const preview = imageUrl
@@ -99,7 +100,7 @@ function generatePromptsList(items) {
     content += `\n### ${style}\n\n`;
 
     for (const item of styleItems.slice(0, 10)) {
-      const detailLink = `${WEBSITE_URL}/gallery?id=${item.id}`;
+      const detailLink = `${WEBSITE_URL}?id=${item.id}`;
       content += `#### ${escapeMarkdown(item.name || 'Untitled')}\n\n`;
 
       if (item.image_url) {
