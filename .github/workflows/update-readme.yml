@@ -1,40 +1,36 @@
-name: Update README with Latest Prompts
+name: Update README Gallery
 
 on:
   schedule:
-    # Run every day at 00:00 UTC
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allow manual trigger
-
-permissions:
-  contents: write
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
+          
       - name: Install dependencies
         run: npm install
-
+        
       - name: Update README
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-        run: npm run update
-
+        run: node scripts/update-readme.mjs
+        
       - name: Commit and push if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add README.md
-          git diff --staged --quiet || git commit -m "Update README with latest prompts"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update GPT Image 1.5 gallery" && git push)
