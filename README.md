@@ -33,20 +33,39 @@ This repository contains prompts specifically created with and for **GPT Image 1
 
 <!-- GALLERY_START -->
 
-### Portrait
+### Logo Design
 
-#### Using The Provided Image Of The Subject As Reference
+#### N Original
 
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+<img src="https://cdn.bestnanobananaprompt.com/hogx4zad31w_1766042495227.png" width="400" alt="N Original">
 
 **Prompt:**
 ```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery. 
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. 
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. 
+Plain background. Deliver a single centered logo with generous padding. No watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 1
 
 ---
+
+#### Scene In Chelsea
+
+<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
+
+**Prompt:**
+```
+make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
+
+---
+
+
+### Portrait
 
 #### Highly Detailed1
 
@@ -58,6 +77,19 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 1
+
+---
+
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
 
 ---
 
@@ -113,30 +145,85 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 
 ---
 
+#### Hyper-realistic cinematic portrait
 
-### Illustration
-
-#### Coding
-
-<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
+<img src="https://cdn.bestnanobananaprompt.com/rj38s45gs1p_1766129701591.jpg" width="400" alt="Hyper-realistic cinematic portrait">
 
 **Prompt:**
 ```
-How does the Fibonacci sequence work? Explain it using both math and code.
-
-Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
-
-Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
-
-- a clear title at the top
-- a code box with a light gray background showing the Python implementation (with correct Python indentation)
-- a short textual explanation
-- bullet points labeled “- pros:” and “- cons:”
-
-Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
+Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 0
+
+---
+
+#### Restore And Recolor This Picture
+
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+
+**Prompt:**
+```
+Restore and recolor this picture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 0
+
+---
+
+#### chibi mascot
+
+<img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
+
+**Prompt:**
+```
+Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 0
+
+---
+
+#### Show Me All The Clothes He Is Wearing
+
+<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
+
+**Prompt:**
+```
+show me all the clothes he is wearing
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 0
+
+---
+
+
+### Comic Art
+
+#### Using This Character
+
+<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 0
+
+---
+
+#### Mio-gpt image 1.5
+
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 0
 
 ---
 
@@ -156,6 +243,23 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 
 ---
 
+#### Photorealistic Candid Photograph Of An Elderly
+
+<img src="https://cdn.bestnanobananaprompt.com/um2hbx2yz5r_1766042248632.png" width="400" alt="Photorealistic Candid Photograph Of An Elderly">
+
+**Prompt:**
+```
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat. 
+He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms. 
+He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens. 
+Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance. 
+The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3b858524-77db-4942-84ea-18b3c5c6359a)** | Likes: 0
+
+---
+
 #### Photorealistic Wide Drone Shot 169 Aspect Ratio
 
 <img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
@@ -166,6 +270,24 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 0
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 0
 
 ---
 
@@ -201,19 +323,43 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 
 ---
 
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
 
-### Logo Design
-
-#### Scene In Chelsea
-
-<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
 
 **Prompt:**
 ```
-make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 0
+
+---
+
+
+### Illustration
+
+#### Coding
+
+<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
+
+**Prompt:**
+```
+How does the Fibonacci sequence work? Explain it using both math and code.
+
+Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
+
+Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
+
+- a clear title at the top
+- a code box with a light gray background showing the Python implementation (with correct Python indentation)
+- a short textual explanation
+- bullet points labeled “- pros:” and “- cons:”
+
+Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
 
 ---
 
