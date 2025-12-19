@@ -33,6 +33,36 @@ This repository contains prompts specifically created with and for **GPT Image 1
 
 <!-- GALLERY_START -->
 
+### Comic Art
+
+#### Mio-gpt image 1.5
+
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 1
+
+---
+
+#### Using This Character
+
+<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 0
+
+---
+
+
 ### Portrait
 
 #### Using The Provided Image Of The Subject As Reference
@@ -45,19 +75,6 @@ Using the provided image of the subject as reference, transform them into a K-po
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
-
----
-
-#### Hyper-realistic cinematic portrait
-
-<img src="https://cdn.bestnanobananaprompt.com/rj38s45gs1p_1766129701591.jpg" width="400" alt="Hyper-realistic cinematic portrait">
-
-**Prompt:**
-```
-Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 1
 
 ---
 
@@ -74,29 +91,16 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 
 ---
 
-#### Poster Of Deep Sea Creatures
+#### Hyper-realistic cinematic portrait
 
-<img src="https://cdn.bestnanobananaprompt.com/vrb8h52s3vq_1766025006801.webp" width="400" alt="Poster Of Deep Sea Creatures">
-
-**Prompt:**
-```
-create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3907bdea-f8e7-483d-bb89-4f5245c0bf32)** | Likes: 0
-
----
-
-#### Photo with glare
-
-<img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
+<img src="https://cdn.bestnanobananaprompt.com/rj38s45gs1p_1766129701591.jpg" width="400" alt="Hyper-realistic cinematic portrait">
 
 **Prompt:**
 ```
-Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
+Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 1
 
 ---
 
@@ -165,6 +169,32 @@ Create a classic department store-style studio portrait from the late 1980s to e
 
 ---
 
+#### Image Of A Worksheet
+
+<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
+
+**Prompt:**
+```
+create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 0
+
+---
+
+#### Poster Of Deep Sea Creatures
+
+<img src="https://cdn.bestnanobananaprompt.com/vrb8h52s3vq_1766025006801.webp" width="400" alt="Poster Of Deep Sea Creatures">
+
+**Prompt:**
+```
+create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3907bdea-f8e7-483d-bb89-4f5245c0bf32)** | Likes: 0
+
+---
+
 
 ### Logo Design
 
@@ -198,48 +228,18 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ---
 
 
-### Comic Art
-
-#### Using This Character
-
-<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 0
-
----
-
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 0
-
----
-
-
 ### Photorealistic
 
-#### Diver Playing  Piano
+#### Photorealistic Wide Drone Shot 169 Aspect Ratio
 
-<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
+<img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
 
 **Prompt:**
 ```
-A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
+A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 1
 
 ---
 
@@ -260,16 +260,45 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 ---
 
-#### Photorealistic Wide Drone Shot 169 Aspect Ratio
+#### Diver Playing  Piano
 
-<img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
+<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
 
 **Prompt:**
 ```
-A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
+A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 0
+
+---
+
+
+### Creative
+
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 0
+
+---
+
+#### Hyper-realistic 3d Isometric Masterpiece
+
+<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
+
+**Prompt:**
+```
+Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 0
 
 ---
 
@@ -304,35 +333,6 @@ Draw me like I'm in a dark fantasy anime
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
-
----
-
-
-### Creative
-
-#### Hyper-realistic 3d Isometric Masterpiece
-
-<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
-
-**Prompt:**
-```
-Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 0
-
----
-
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
-
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
-
-**Prompt:**
-```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 0
 
 ---
 
