@@ -81,19 +81,6 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 ### Portrait
 
-#### Using The Provided Image Of The Subject As Reference
-
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
-
-**Prompt:**
-```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
-
----
-
 #### Hyper-realistic cinematic portrait
 
 <img src="https://cdn.bestnanobananaprompt.com/rj38s45gs1p_1766129701591.jpg" width="400" alt="Hyper-realistic cinematic portrait">
@@ -103,7 +90,7 @@ Using the provided image of the subject as reference, transform them into a K-po
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 2
 
 ---
 
@@ -117,6 +104,19 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 1
+
+---
+
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
 
 ---
 
@@ -212,36 +212,6 @@ create a poster of deep sea creatures at different depths, with a vertical ocean
 ---
 
 
-### Comic Art
-
-#### Using This Character
-
-<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 1
-
----
-
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 1
-
----
-
-
 ### Logo Design
 
 #### N Original
@@ -274,31 +244,50 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ---
 
 
-### Creative
+### Comic Art
 
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+#### Using This Character
 
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
 
 **Prompt:**
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 1
 
 ---
 
-#### Hyper-realistic 3d Isometric Masterpiece
+#### Mio-gpt image 1.5
 
-<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
 
 **Prompt:**
 ```
-Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 1
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 0
 
 ---
 
@@ -319,20 +308,31 @@ Draw me like I'm in a dark fantasy anime
 ---
 
 
-### Product Photography
+### Creative
 
-#### Detailed Infographic Of The Functioning
+#### Hyper-realistic 3d Isometric Masterpiece
 
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
 
 **Prompt:**
 ```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
+Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 0
+
+---
+
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 0
 
 ---
 
