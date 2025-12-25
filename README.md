@@ -48,19 +48,6 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 
 ---
 
-#### Diver Playing  Piano
-
-<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
-
-**Prompt:**
-```
-A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 0
-
----
-
 #### Photorealistic Candid Photograph Of An Elderly
 
 <img src="https://cdn.bestnanobananaprompt.com/um2hbx2yz5r_1766042248632.png" width="400" alt="Photorealistic Candid Photograph Of An Elderly">
@@ -75,6 +62,19 @@ The image should feel honest and unposed, with real skin texture, worn materials
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3b858524-77db-4942-84ea-18b3c5c6359a)** | Likes: 0
+
+---
+
+#### Diver Playing  Piano
+
+<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
+
+**Prompt:**
+```
+A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 0
 
 ---
 
@@ -163,6 +163,19 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 
 ---
 
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
+
+---
+
 #### Photo with glare
 
 <img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
@@ -186,19 +199,6 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 1
-
----
-
-#### Using The Provided Image Of The Subject As Reference
-
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
-
-**Prompt:**
-```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 1
 
 ---
 
@@ -244,6 +244,19 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 
 ### Creative
 
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 3
+
+---
+
 #### Hyper-realistic 3d Isometric Masterpiece
 
 <img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
@@ -254,19 +267,6 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 2
-
----
-
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
-
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
-
-**Prompt:**
-```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 2
 
 ---
 
@@ -303,6 +303,33 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ---
 
 
+### Illustration
+
+#### Coding
+
+<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
+
+**Prompt:**
+```
+How does the Fibonacci sequence work? Explain it using both math and code.
+
+Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
+
+Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
+
+- a clear title at the top
+- a code box with a light gray background showing the Python implementation (with correct Python indentation)
+- a short textual explanation
+- bullet points labeled “- pros:” and “- cons:”
+
+Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
+
+---
+
+
 ### Product Photography
 
 #### Detailed Infographic Of The Functioning
@@ -333,33 +360,6 @@ Draw me like I'm in a dark fantasy anime
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
-
----
-
-
-### Illustration
-
-#### Coding
-
-<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
-
-**Prompt:**
-```
-How does the Fibonacci sequence work? Explain it using both math and code.
-
-Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
-
-Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
-
-- a clear title at the top
-- a code box with a light gray background showing the Python implementation (with correct Python indentation)
-- a short textual explanation
-- bullet points labeled “- pros:” and “- cons:”
-
-Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
 
 ---
 
