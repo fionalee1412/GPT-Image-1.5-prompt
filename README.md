@@ -321,18 +321,18 @@ I'd like to understand technically and visually the flow.
 ---
 
 
-### Style Transfer
+### Minimalist
 
-#### Me Like Im In A Dark Fantasy Anime
+#### Hyper-detailed Origami Food Item Folded From Realistic
 
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
 
 **Prompt:**
 ```
-Draw me like I'm in a dark fantasy anime
+A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 1
 
 ---
 
@@ -364,18 +364,18 @@ Draw clear arrows pointing from the central math explanation to each implementat
 ---
 
 
-### Minimalist
+### Style Transfer
 
-#### Hyper-detailed Origami Food Item Folded From Realistic
+#### Me Like Im In A Dark Fantasy Anime
 
-<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
 
 **Prompt:**
 ```
-A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
+Draw me like I'm in a dark fantasy anime
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
 
 ---
 
