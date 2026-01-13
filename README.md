@@ -57,7 +57,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 5
 
 ---
 
@@ -71,6 +71,19 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 3
+
+---
+
+#### Restore And Recolor This Picture
+
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+
+**Prompt:**
+```
+Restore and recolor this picture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 3
 
 ---
 
@@ -100,19 +113,6 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 
 ---
 
-#### Restore And Recolor This Picture
-
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
-
-**Prompt:**
-```
-Restore and recolor this picture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 2
-
----
-
 #### Photo with glare
 
 <img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
@@ -123,6 +123,19 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 1
+
+---
+
+#### Show Me All The Clothes He Is Wearing
+
+<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
+
+**Prompt:**
+```
+show me all the clothes he is wearing
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 1
 
 ---
 
@@ -139,29 +152,16 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
-#### Crowd
+#### Classic Department Store-style Studio Portrait From The
 
-<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
-
-**Prompt:**
-```
-a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 0
-
----
-
-#### Poster Of Deep Sea Creatures
-
-<img src="https://cdn.bestnanobananaprompt.com/vrb8h52s3vq_1766025006801.webp" width="400" alt="Poster Of Deep Sea Creatures">
+<img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
 
 **Prompt:**
 ```
-create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
+Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3907bdea-f8e7-483d-bb89-4f5245c0bf32)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 0
 
 ---
 
@@ -243,20 +243,6 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 
 ### Comic Art
 
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
-
----
-
 #### Using This Character
 
 <img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
@@ -270,19 +256,17 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 
 ---
 
+#### Mio-gpt image 1.5
 
-### Minimalist
-
-#### Hyper-detailed Origami Food Item Folded From Realistic
-
-<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
 
 **Prompt:**
 ```
-A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
 
 ---
 
@@ -319,6 +303,22 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ---
 
 
+### Minimalist
+
+#### Hyper-detailed Origami Food Item Folded From Realistic
+
+<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
+
+**Prompt:**
+```
+A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 3
+
+---
+
+
 ### Product Photography
 
 #### Detailed Infographic Of The Functioning
@@ -333,6 +333,22 @@ I'd like to understand technically and visually the flow.
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 1
+
+---
+
+
+### Style Transfer
+
+#### Me Like Im In A Dark Fantasy Anime
+
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+
+**Prompt:**
+```
+Draw me like I'm in a dark fantasy anime
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
 
 ---
 
@@ -360,22 +376,6 @@ Draw clear arrows pointing from the central math explanation to each implementat
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
-
----
-
-
-### Style Transfer
-
-#### Me Like Im In A Dark Fantasy Anime
-
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
-
-**Prompt:**
-```
-Draw me like I'm in a dark fantasy anime
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
 
 ---
 
