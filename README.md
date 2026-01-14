@@ -61,16 +61,16 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 
 ---
 
-#### Restore And Recolor This Picture
+#### Highly Detailed1
 
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
 
 **Prompt:**
 ```
-Restore and recolor this picture
+A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 4
 
 ---
 
@@ -87,16 +87,29 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 
 ---
 
-#### Highly Detailed1
+#### Restore And Recolor This Picture
 
-<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
 
 **Prompt:**
 ```
-A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
+Restore and recolor this picture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 4
+
+---
+
+#### Image Of A Worksheet
+
+<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
+
+**Prompt:**
+```
+create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 2
 
 ---
 
@@ -126,19 +139,6 @@ show me all the clothes he is wearing
 
 ---
 
-#### Image Of A Worksheet
-
-<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
-
-**Prompt:**
-```
-create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 2
-
----
-
 #### Photo with glare
 
 <img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
@@ -152,16 +152,16 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 
 ---
 
-#### Classic Department Store-style Studio Portrait From The
+#### Crowd
 
-<img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
+<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
 
 **Prompt:**
 ```
-Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
+a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 1
 
 ---
 
@@ -177,7 +177,7 @@ Create a classic department store-style studio portrait from the late 1980s to e
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 7
 
 ---
 
@@ -190,7 +190,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 4
 
 ---
 
@@ -337,22 +337,6 @@ I'd like to understand technically and visually the flow.
 ---
 
 
-### Style Transfer
-
-#### Me Like Im In A Dark Fantasy Anime
-
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
-
-**Prompt:**
-```
-Draw me like I'm in a dark fantasy anime
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
-
----
-
-
 ### Illustration
 
 #### Coding
@@ -376,6 +360,22 @@ Draw clear arrows pointing from the central math explanation to each implementat
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 0
+
+---
+
+
+### Style Transfer
+
+#### Me Like Im In A Dark Fantasy Anime
+
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+
+**Prompt:**
+```
+Draw me like I'm in a dark fantasy anime
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
 
 ---
 
