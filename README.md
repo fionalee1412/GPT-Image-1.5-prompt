@@ -57,7 +57,20 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 7
+
+---
+
+#### Restore And Recolor This Picture
+
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+
+**Prompt:**
+```
+Restore and recolor this picture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 4
 
 ---
 
@@ -87,19 +100,6 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 
 ---
 
-#### Restore And Recolor This Picture
-
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
-
-**Prompt:**
-```
-Restore and recolor this picture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 4
-
----
-
 #### Using The Provided Image Of The Subject As Reference
 
 <img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
@@ -109,20 +109,7 @@ Restore and recolor this picture
 Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 2
-
----
-
-#### Show Me All The Clothes He Is Wearing
-
-<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
-
-**Prompt:**
-```
-show me all the clothes he is wearing
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 3
 
 ---
 
@@ -136,6 +123,19 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 2
+
+---
+
+#### Show Me All The Clothes He Is Wearing
+
+<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
+
+**Prompt:**
+```
+show me all the clothes he is wearing
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
 
 ---
 
