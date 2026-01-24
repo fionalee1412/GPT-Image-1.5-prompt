@@ -241,6 +241,22 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 ---
 
 
+### Minimalist
+
+#### Hyper-detailed Origami Food Item Folded From Realistic
+
+<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
+
+**Prompt:**
+```
+A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 5
+
+---
+
+
 ### Comic Art
 
 #### Using This Character
@@ -267,22 +283,6 @@ Using this character, please draw a manga that introduces how amazing GPT Image 
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
-
----
-
-
-### Minimalist
-
-#### Hyper-detailed Origami Food Item Folded From Realistic
-
-<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
-
-**Prompt:**
-```
-A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 4
 
 ---
 
