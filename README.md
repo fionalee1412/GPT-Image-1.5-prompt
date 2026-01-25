@@ -44,7 +44,7 @@ This repository contains prompts specifically created with and for **GPT Image 1
 Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 13
 
 ---
 
@@ -57,20 +57,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 10
-
----
-
-#### chibi mascot
-
-<img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
-
-**Prompt:**
-```
-Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 11
 
 ---
 
@@ -100,6 +87,19 @@ Restore and recolor this picture
 
 ---
 
+#### chibi mascot
+
+<img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
+
+**Prompt:**
+```
+Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 4
+
+---
+
 #### Using The Provided Image Of The Subject As Reference
 
 <img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
@@ -110,19 +110,6 @@ Using the provided image of the subject as reference, transform them into a K-po
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 3
-
----
-
-#### Show Me All The Clothes He Is Wearing
-
-<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
-
-**Prompt:**
-```
-show me all the clothes he is wearing
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
 
 ---
 
@@ -149,6 +136,19 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 2
+
+---
+
+#### Show Me All The Clothes He Is Wearing
+
+<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
+
+**Prompt:**
+```
+show me all the clothes he is wearing
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
 
 ---
 
@@ -269,7 +269,7 @@ Using this character, please draw a manga that introduces how amazing GPT Image 
  is. Make the image’s aspect ratio match A4 size.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 5
 
 ---
 
@@ -341,7 +341,7 @@ Each implementation should be rendered inside a rounded-rectangle card with a su
 Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 2
 
 ---
 
