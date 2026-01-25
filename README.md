@@ -61,19 +61,6 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 
 ---
 
-#### Highly Detailed1
-
-<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
-
-**Prompt:**
-```
-A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 4
-
----
-
 #### chibi mascot
 
 <img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
@@ -84,6 +71,19 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 4
+
+---
+
+#### Highly Detailed1
+
+<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
+
+**Prompt:**
+```
+A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 4
 
 ---
 
@@ -113,19 +113,6 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
-#### Image Of A Worksheet
-
-<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
-
-**Prompt:**
-```
-create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 2
-
----
-
 #### Show Me All The Clothes He Is Wearing
 
 <img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
@@ -136,6 +123,19 @@ show me all the clothes he is wearing
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
+
+---
+
+#### Image Of A Worksheet
+
+<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
+
+**Prompt:**
+```
+create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 2
 
 ---
 
@@ -319,24 +319,6 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ---
 
 
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 2
-
----
-
-
 ### Illustration
 
 #### Coding
@@ -359,7 +341,25 @@ Each implementation should be rendered inside a rounded-rectangle card with a su
 Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 3
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 2
 
 ---
 
@@ -375,7 +375,7 @@ Draw clear arrows pointing from the central math explanation to each implementat
 Draw me like I'm in a dark fantasy anime
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 0
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 1
 
 ---
 
