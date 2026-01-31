@@ -113,19 +113,6 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 
 ---
 
-#### Image Of A Worksheet
-
-<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
-
-**Prompt:**
-```
-create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 3
-
----
-
 #### Photo with glare
 
 <img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
@@ -136,6 +123,19 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 3
+
+---
+
+#### Image Of A Worksheet
+
+<img src="https://cdn.bestnanobananaprompt.com/p28ogj9cvoa_1766025033084.webp" width="400" alt="Image Of A Worksheet">
+
+**Prompt:**
+```
+create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 3
 
 ---
 
@@ -177,7 +177,7 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 18
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 21
 
 ---
 
@@ -206,7 +206,7 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 13
 
 ---
 
@@ -332,23 +332,7 @@ From bean basket, to grinding, to scale, water tank, boiler, etc.
 I'd like to understand technically and visually the flow.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 2
-
----
-
-
-### Style Transfer
-
-#### Me Like Im In A Dark Fantasy Anime
-
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
-
-**Prompt:**
-```
-Draw me like I'm in a dark fantasy anime
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 3
 
 ---
 
@@ -376,6 +360,22 @@ Draw clear arrows pointing from the central math explanation to each implementat
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 2
+
+---
+
+
+### Style Transfer
+
+#### Me Like Im In A Dark Fantasy Anime
+
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+
+**Prompt:**
+```
+Draw me like I'm in a dark fantasy anime
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 2
 
 ---
 
