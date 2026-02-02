@@ -44,7 +44,7 @@ This repository contains prompts specifically created with and for **GPT Image 1
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 25
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 26
 
 ---
 
@@ -74,6 +74,19 @@ Restore and recolor this picture
 
 ---
 
+#### Highly Detailed1
+
+<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
+
+**Prompt:**
+```
+A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 7
+
+---
+
 #### Using The Provided Image Of The Subject As Reference
 
 <img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
@@ -84,19 +97,6 @@ Using the provided image of the subject as reference, transform them into a K-po
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 6
-
----
-
-#### Highly Detailed1
-
-<img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
-
-**Prompt:**
-```
-A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 6
 
 ---
 
@@ -241,6 +241,40 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 ---
 
 
+### Minimalist
+
+#### Hyper-detailed Origami Food Item Folded From Realistic
+
+<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
+
+**Prompt:**
+```
+A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 6
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 6
+
+---
+
+
 ### Comic Art
 
 #### Mio-gpt image 1.5
@@ -267,40 +301,6 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 5
-
----
-
-
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 5
-
----
-
-
-### Minimalist
-
-#### Hyper-detailed Origami Food Item Folded From Realistic
-
-<img src="https://cdn.bestnanobananaprompt.com/3g4i0naorfz_1767604025555.jpg" width="400" alt="Hyper-detailed Origami Food Item Folded From Realistic">
-
-**Prompt:**
-```
-A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 5
 
 ---
 
