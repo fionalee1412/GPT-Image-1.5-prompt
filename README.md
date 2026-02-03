@@ -44,7 +44,7 @@ This repository contains prompts specifically created with and for **GPT Image 1
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 27
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 28
 
 ---
 
@@ -152,16 +152,16 @@ show me all the clothes he is wearing
 
 ---
 
-#### Classic Department Store-style Studio Portrait From The
+#### Crowd
 
-<img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
+<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
 
 **Prompt:**
 ```
-Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
+a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 1
 
 ---
 
@@ -252,7 +252,7 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 8
 
 ---
 
@@ -305,6 +305,22 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ---
 
 
+### Style Transfer
+
+#### Me Like Im In A Dark Fantasy Anime
+
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+
+**Prompt:**
+```
+Draw me like I'm in a dark fantasy anime
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 5
+
+---
+
+
 ### Logo Design
 
 #### N Original
@@ -333,22 +349,6 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
-
----
-
-
-### Style Transfer
-
-#### Me Like Im In A Dark Fantasy Anime
-
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
-
-**Prompt:**
-```
-Draw me like I'm in a dark fantasy anime
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 3
 
 ---
 
