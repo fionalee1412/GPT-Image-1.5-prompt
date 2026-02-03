@@ -83,7 +83,7 @@ Restore and recolor this picture
 A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 7
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 9
 
 ---
 
@@ -100,6 +100,19 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
+#### Photo with glare
+
+<img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
+
+**Prompt:**
+```
+Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 6
+
+---
+
 #### chibi mascot
 
 <img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
@@ -110,19 +123,6 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 5
-
----
-
-#### Photo with glare
-
-<img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
-
-**Prompt:**
-```
-Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 5
 
 ---
 
@@ -252,7 +252,25 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 8
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 9
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 7
 
 ---
 
@@ -283,24 +301,6 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 5
-
----
-
-
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 6
 
 ---
 
