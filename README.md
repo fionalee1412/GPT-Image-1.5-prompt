@@ -61,19 +61,6 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 
 ---
 
-#### Restore And Recolor This Picture
-
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
-
-**Prompt:**
-```
-Restore and recolor this picture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 9
-
----
-
 #### Highly Detailed1
 
 <img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
@@ -87,16 +74,16 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 
 ---
 
-#### Using The Provided Image Of The Subject As Reference
+#### Restore And Recolor This Picture
 
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
 
 **Prompt:**
 ```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+Restore and recolor this picture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 9
 
 ---
 
@@ -109,7 +96,20 @@ Using the provided image of the subject as reference, transform them into a K-po
 Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 7
+
+---
+
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 6
 
 ---
 
@@ -177,7 +177,7 @@ Create a classic department store-style studio portrait from the late 1980s to e
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 23
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 24
 
 ---
 
@@ -252,7 +252,7 @@ A diver playing an underwater piano with mermaids watching. Hyper-realistic amat
 A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food’s shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 9
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 11
 
 ---
 
