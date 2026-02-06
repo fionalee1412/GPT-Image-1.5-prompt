@@ -70,7 +70,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 11
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 12
 
 ---
 
@@ -139,19 +139,6 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 
 ---
 
-#### Crowd
-
-<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
-
-**Prompt:**
-```
-a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 2
-
----
-
 #### Show Me All The Clothes He Is Wearing
 
 <img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
@@ -162,6 +149,19 @@ show me all the clothes he is wearing
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
+
+---
+
+#### Crowd
+
+<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
+
+**Prompt:**
+```
+a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 2
 
 ---
 
@@ -206,7 +206,7 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 19
 
 ---
 
@@ -321,6 +321,33 @@ Draw me like I'm in a dark fantasy anime
 ---
 
 
+### Illustration
+
+#### Coding
+
+<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
+
+**Prompt:**
+```
+How does the Fibonacci sequence work? Explain it using both math and code.
+
+Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
+
+Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
+
+- a clear title at the top
+- a code box with a light gray background showing the Python implementation (with correct Python indentation)
+- a short textual explanation
+- bullet points labeled “- pros:” and “- cons:”
+
+Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 3
+
+---
+
+
 ### Logo Design
 
 #### N Original
@@ -349,33 +376,6 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
-
----
-
-
-### Illustration
-
-#### Coding
-
-<img src="https://cdn.bestnanobananaprompt.com/0p184ptv0rad_1766024843158.webp" width="400" alt="Coding">
-
-**Prompt:**
-```
-How does the Fibonacci sequence work? Explain it using both math and code.
-
-Place a simple mathematical definition and short explanation at the center of the image. Around the central math explanation, show four boxed Python implementations of the Fibonacci sequence, using different approaches or styles. Prefer Python solutions that rely on standard python library abstractions.
-
-Each implementation should be rendered inside a rounded-rectangle card with a subtle drop shadow and should contain, in order:
-
-- a clear title at the top
-- a code box with a light gray background showing the Python implementation (with correct Python indentation)
-- a short textual explanation
-- bullet points labeled “- pros:” and “- cons:”
-
-Draw clear arrows pointing from the central math explanation to each implementation card. Keep the layout clean and visually structured, using a modern, professional infographic style. Use a pure white background, a neutral base color palette, and give each implementation card a distinct accent color, with clear spacing throughou
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 3
 
 ---
 
