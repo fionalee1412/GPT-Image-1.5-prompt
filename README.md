@@ -177,7 +177,7 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 31
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 32
 
 ---
 
@@ -321,6 +321,38 @@ Draw me like I'm in a dark fantasy anime
 ---
 
 
+### Logo Design
+
+#### N Original
+
+<img src="https://cdn.bestnanobananaprompt.com/hogx4zad31w_1766042495227.png" width="400" alt="N Original">
+
+**Prompt:**
+```
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery. 
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. 
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. 
+Plain background. Deliver a single centered logo with generous padding. No watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 4
+
+---
+
+#### Scene In Chelsea
+
+<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
+
+**Prompt:**
+```
+make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
+
+---
+
+
 ### Illustration
 
 #### Coding
@@ -344,38 +376,6 @@ Draw clear arrows pointing from the central math explanation to each implementat
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c221df17-c546-4bec-8414-a88fc85c26a0)** | Likes: 3
-
----
-
-
-### Logo Design
-
-#### N Original
-
-<img src="https://cdn.bestnanobananaprompt.com/hogx4zad31w_1766042495227.png" width="400" alt="N Original">
-
-**Prompt:**
-```
-Create an original, non-infringing logo for a company called Field & Flour, a local bakery. 
-The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. 
-Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. 
-Plain background. Deliver a single centered logo with generous padding. No watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 3
-
----
-
-#### Scene In Chelsea
-
-<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
-
-**Prompt:**
-```
-make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
 
 ---
 
