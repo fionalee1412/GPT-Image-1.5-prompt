@@ -44,7 +44,7 @@ This repository contains prompts specifically created with and for **GPT Image 1
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 35
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 36
 
 ---
 
@@ -57,7 +57,7 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 25
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 26
 
 ---
 
@@ -70,7 +70,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 14
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 16
 
 ---
 
@@ -83,20 +83,7 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 12
-
----
-
-#### Using The Provided Image Of The Subject As Reference
-
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
-
-**Prompt:**
-```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 10
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 13
 
 ---
 
@@ -109,7 +96,20 @@ Using the provided image of the subject as reference, transform them into a K-po
 Restore and recolor this picture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 9
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 11
+
+---
+
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 11
 
 ---
 
@@ -122,7 +122,7 @@ Restore and recolor this picture
 Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 8
 
 ---
 
@@ -139,19 +139,6 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 
 ---
 
-#### Crowd
-
-<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
-
-**Prompt:**
-```
-a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 2
-
----
-
 #### Show Me All The Clothes He Is Wearing
 
 <img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
@@ -161,7 +148,20 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 show me all the clothes he is wearing
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 3
+
+---
+
+#### Classic Department Store-style Studio Portrait From The
+
+<img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
+
+**Prompt:**
+```
+Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 3
 
 ---
 
@@ -177,7 +177,7 @@ show me all the clothes he is wearing
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 35
 
 ---
 
@@ -206,7 +206,7 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 19
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 20
 
 ---
 
@@ -236,7 +236,7 @@ The image should feel honest and unposed, with real skin texture, worn materials
 A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 2
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 3
 
 ---
 
@@ -305,22 +305,6 @@ I'd like to understand technically and visually the flow.
 ---
 
 
-### Style Transfer
-
-#### Me Like Im In A Dark Fantasy Anime
-
-<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
-
-**Prompt:**
-```
-Draw me like I'm in a dark fantasy anime
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 5
-
----
-
-
 ### Logo Design
 
 #### N Original
@@ -335,7 +319,7 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Plain background. Deliver a single centered logo with generous padding. No watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 5
 
 ---
 
@@ -349,6 +333,22 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
+
+---
+
+
+### Style Transfer
+
+#### Me Like Im In A Dark Fantasy Anime
+
+<img src="https://cdn.bestnanobananaprompt.com/p5lwq9kgru_1766025059336.webp" width="400" alt="Me Like Im In A Dark Fantasy Anime">
+
+**Prompt:**
+```
+Draw me like I'm in a dark fantasy anime
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=e905016d-d91b-40eb-ae4c-962faf6e410e)** | Likes: 5
 
 ---
 
