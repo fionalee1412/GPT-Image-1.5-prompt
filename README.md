@@ -44,7 +44,7 @@ This repository contains prompts specifically created with and for **GPT Image 1
 Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 36
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 37
 
 ---
 
@@ -135,20 +135,7 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 create an image of a worksheet i can use to quiz my sixth graders on world capitals? use a world map that they can label. focus on capitals for the top 20 most populous countries. make it fun and visually appealing!
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 4
-
----
-
-#### Crowd
-
-<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
-
-**Prompt:**
-```
-a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=f1e87ee6-1cb7-45c7-931d-9fd3b0664aac)** | Likes: 5
 
 ---
 
@@ -162,6 +149,19 @@ show me all the clothes he is wearing
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 3
+
+---
+
+#### Classic Department Store-style Studio Portrait From The
+
+<img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
+
+**Prompt:**
+```
+Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 3
 
 ---
 
@@ -206,7 +206,7 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 20
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 22
 
 ---
 
@@ -287,24 +287,6 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ---
 
 
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 7
-
----
-
-
 ### Logo Design
 
 #### N Original
@@ -319,7 +301,7 @@ Favor simplicity over detail so it reads clearly at small and large sizes. Flat 
 Plain background. Deliver a single centered logo with generous padding. No watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 7
 
 ---
 
@@ -333,6 +315,24 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 0
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 7
 
 ---
 
