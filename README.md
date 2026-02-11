@@ -57,7 +57,7 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 26
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 27
 
 ---
 
@@ -152,16 +152,16 @@ Create a classic department store-style studio portrait from the late 1980s to e
 
 ---
 
-#### Show Me All The Clothes He Is Wearing
+#### Crowd
 
-<img src="https://cdn.bestnanobananaprompt.com/se4bn7gkvg_1766046469390.jpg" width="400" alt="Show Me All The Clothes He Is Wearing">
+<img src="https://cdn.bestnanobananaprompt.com/q2hrmtleio_1766024899832.webp" width="400" alt="Crowd">
 
 **Prompt:**
 ```
-show me all the clothes he is wearing
+a crowd of tens of thousands of people in front of the Golden Gate bridge. The faces of everyone in the crowd must be clearly visible.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=46cd9107-93a1-4787-8a84-1276945d8d31)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=dd5cea47-cc5f-4401-a5be-dd3560a85c18)** | Likes: 3
 
 ---
 
@@ -177,7 +177,7 @@ show me all the clothes he is wearing
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 39
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 40
 
 ---
 
@@ -190,7 +190,7 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 7
 
 ---
 
@@ -257,24 +257,6 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 ---
 
 
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 8
-
----
-
-
 ### Comic Art
 
 #### Mio-gpt image 1.5
@@ -301,6 +283,24 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 6
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 8
 
 ---
 
