@@ -70,7 +70,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 18
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 19
 
 ---
 
@@ -177,7 +177,7 @@ a crowd of tens of thousands of people in front of the Golden Gate bridge. The f
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 40
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 41
 
 ---
 
