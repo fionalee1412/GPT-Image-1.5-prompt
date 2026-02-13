@@ -83,7 +83,7 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 15
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 16
 
 ---
 
@@ -177,7 +177,7 @@ create an image of a worksheet i can use to quiz my sixth graders on world capit
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 43
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 44
 
 ---
 
