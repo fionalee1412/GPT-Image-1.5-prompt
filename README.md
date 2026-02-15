@@ -70,7 +70,7 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 A highly detailed, photorealistic portrait of a blonde woman with fair skin, short platinum blonde buzz-cut hair, heavily tattooed face and neck with intricate black ink tattoos including cursive words like "Preach", "Meme", crosses, symbols, and various script designs across her forehead, cheeks, and neck. She is blowing a large, shiny pink bubble gum bubble that covers her mouth and part of her lower face, with realistic gloss and reflections on the bubble. She wears oversized, rectangular light blue tinted sunglasses with thick frames covering her eyes, a light blue striped dress shirt with collar up, a loose black tie, and a navy blue varsity-style jacket with white ribbed cuffs and hem, featuring a "NEW AI ERA" embroidered patch on the left side. Plain white studio background, even soft lighting, straight-on camera angle, tight head-and-shoulders composition, high resolution, sharp details, cinematic quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 19
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 20
 
 ---
 
@@ -113,6 +113,19 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
+#### virat
+
+<img src="https://cdn.bestnanobananaprompt.com/cn1as6gb3ei_1770790473696.jpg" width="400" alt="virat">
+
+**Prompt:**
+```
+lifting the bat for the best lead and best score in the field
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 11
+
+---
+
 #### chibi mascot
 
 <img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
@@ -123,19 +136,6 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 10
-
----
-
-#### virat
-
-<img src="https://cdn.bestnanobananaprompt.com/cn1as6gb3ei_1770790473696.jpg" width="400" alt="virat">
-
-**Prompt:**
-```
-lifting the bat for the best lead and best score in the field
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 9
 
 ---
 
