@@ -122,7 +122,7 @@ Using the provided image of the subject as reference, transform them into a K-po
 lifting the bat for the best lead and best score in the field
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 11
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 12
 
 ---
 
