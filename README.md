@@ -122,7 +122,7 @@ Using the provided image of the subject as reference, transform them into a K-po
 lifting the bat for the best lead and best score in the field
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 13
 
 ---
 
@@ -177,7 +177,7 @@ solo travelling in the forest with the map
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 46
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 48
 
 ---
 
