@@ -74,6 +74,19 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 
 ---
 
+#### virat
+
+<img src="https://cdn.bestnanobananaprompt.com/cn1as6gb3ei_1770790473696.jpg" width="400" alt="virat">
+
+**Prompt:**
+```
+lifting the bat for the best lead and best score in the field
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 17
+
+---
+
 #### Photo with glare
 
 <img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
@@ -84,19 +97,6 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 17
-
----
-
-#### virat
-
-<img src="https://cdn.bestnanobananaprompt.com/cn1as6gb3ei_1770790473696.jpg" width="400" alt="virat">
-
-**Prompt:**
-```
-lifting the bat for the best lead and best score in the field
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 16
 
 ---
 
