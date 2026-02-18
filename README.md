@@ -139,6 +139,19 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 
 ---
 
+#### dexter
+
+<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
+
+**Prompt:**
+```
+solo travelling in the forest with the map
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 9
+
+---
+
 #### Classic Department Store-style Studio Portrait From The
 
 <img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
@@ -149,19 +162,6 @@ Create a classic department store-style studio portrait from the late 1980s to e
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 9
-
----
-
-#### dexter
-
-<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
-
-**Prompt:**
-```
-solo travelling in the forest with the map
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 8
 
 ---
 
@@ -257,6 +257,36 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 ---
 
 
+### Comic Art
+
+#### Mio-gpt image 1.5
+
+<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
+ is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 9
+
+---
+
+#### Using This Character
+
+<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
+
+**Prompt:**
+```
+Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 6
+
+---
+
+
 ### Logo Design
 
 #### N Original
@@ -285,36 +315,6 @@ make a scene in chelsea, london in the 1970s, photorealistic, everything in focu
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 1
-
----
-
-
-### Comic Art
-
-#### Mio-gpt image 1.5
-
-<img src="https://cdn.bestnanobananaprompt.com/08ejoow5vuan_1766043345310.webp" width="400" alt="Mio-gpt image 1.5">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing GPT Image 1.5 
- is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0252acec-6180-4d20-8a74-8affa69d4cb7)** | Likes: 9
-
----
-
-#### Using This Character
-
-<img src="https://cdn.bestnanobananaprompt.com/9fssnp3c4a_1766043272179.webp" width="400" alt="Using This Character">
-
-**Prompt:**
-```
-Using this character, please draw a manga that introduces how amazing NanoBanana Pro is. Make the image’s aspect ratio match A4 size.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 6
 
 ---
 
