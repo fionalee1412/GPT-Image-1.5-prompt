@@ -96,7 +96,7 @@ Generate an image of a printed retro photo of a young asian man and a young whit
 lifting the bat for the best lead and best score in the field
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 19
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=82210911-a66f-4584-af32-971203d6975c)** | Likes: 20
 
 ---
 
@@ -109,7 +109,7 @@ lifting the bat for the best lead and best score in the field
 Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 15
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 16
 
 ---
 
@@ -126,16 +126,16 @@ Restore and recolor this picture
 
 ---
 
-#### chibi mascot
+#### dexter
 
-<img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
+<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
 
 **Prompt:**
 ```
-Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
+solo travelling in the forest with the map
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 11
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 11
 
 ---
 
@@ -152,16 +152,16 @@ Create a classic department store-style studio portrait from the late 1980s to e
 
 ---
 
-#### dexter
+#### chibi mascot
 
-<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
+<img src="https://cdn.bestnanobananaprompt.com/isw013i8z9n_1766046354974.jpg" width="400" alt="chibi mascot">
 
 **Prompt:**
 ```
-solo travelling in the forest with the map
+Transform the subjects or image into an adorable chibi-style character with a tiny body and an oversized head. If the image contains a person or multiple people, give them large, sparkling eyes, soft rounded facial features, and a cheerful expression while preserving their recognizable traits such as key facial features, hairstyle, accessories, or distinctive clothing; if the image contains an object, animal, or scene, reinterpret its most recognizable features using the same chibi proportions and simplified, cute styling. Keep the overall look short and cute, with smooth pastel shading and simplified details. Make the final image bright, expressive, and irresistibly charming, like a collectible chibi mascot.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 9
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=ed304412-26b4-49b5-9474-9f28856eb1bd)** | Likes: 11
 
 ---
 
@@ -257,6 +257,38 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 ---
 
 
+### Logo Design
+
+#### N Original
+
+<img src="https://cdn.bestnanobananaprompt.com/hogx4zad31w_1766042495227.png" width="400" alt="N Original">
+
+**Prompt:**
+```
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery. 
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. 
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. 
+Plain background. Deliver a single centered logo with generous padding. No watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 9
+
+---
+
+#### Scene In Chelsea
+
+<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
+
+**Prompt:**
+```
+make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 1
+
+---
+
+
 ### Product Photography
 
 #### Detailed Infographic Of The Functioning
@@ -301,38 +333,6 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 6
-
----
-
-
-### Logo Design
-
-#### N Original
-
-<img src="https://cdn.bestnanobananaprompt.com/hogx4zad31w_1766042495227.png" width="400" alt="N Original">
-
-**Prompt:**
-```
-Create an original, non-infringing logo for a company called Field & Flour, a local bakery. 
-The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space. 
-Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential. 
-Plain background. Deliver a single centered logo with generous padding. No watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4d0d8d92-a504-45bd-8306-9896f96d46c9)** | Likes: 9
-
----
-
-#### Scene In Chelsea
-
-<img src="https://cdn.bestnanobananaprompt.com/pan9feplw0e_1766024867673.webp" width="400" alt="Scene In Chelsea">
-
-**Prompt:**
-```
-make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=75b45c8f-3d6f-4461-b96e-d36e343d08ed)** | Likes: 1
 
 ---
 
