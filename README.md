@@ -109,7 +109,7 @@ lifting the bat for the best lead and best score in the field
 Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 18
 
 ---
 
@@ -126,6 +126,19 @@ Restore and recolor this picture
 
 ---
 
+#### dexter
+
+<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
+
+**Prompt:**
+```
+solo travelling in the forest with the map
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 12
+
+---
+
 #### Classic Department Store-style Studio Portrait From The
 
 <img src="https://cdn.bestnanobananaprompt.com/0tri15ofy14_1766110492592.jpg" width="400" alt="Classic Department Store-style Studio Portrait From The">
@@ -136,19 +149,6 @@ Create a classic department store-style studio portrait from the late 1980s to e
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 12
-
----
-
-#### dexter
-
-<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
-
-**Prompt:**
-```
-solo travelling in the forest with the map
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 11
 
 ---
 
@@ -177,7 +177,7 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 60
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 61
 
 ---
 
@@ -210,19 +210,6 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 
 ---
 
-#### Diver Playing  Piano
-
-<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
-
-**Prompt:**
-```
-A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 6
-
----
-
 #### Photorealistic Candid Photograph Of An Elderly
 
 <img src="https://cdn.bestnanobananaprompt.com/um2hbx2yz5r_1766042248632.png" width="400" alt="Photorealistic Candid Photograph Of An Elderly">
@@ -240,6 +227,19 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 ---
 
+#### Diver Playing  Piano
+
+<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
+
+**Prompt:**
+```
+A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 6
+
+---
+
 
 ### Minimalist
 
@@ -253,24 +253,6 @@ A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with vi
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=03724417-bb0d-44aa-ab49-c2a03b6e02bf)** | Likes: 16
-
----
-
-
-### Product Photography
-
-#### Detailed Infographic Of The Functioning
-
-<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
-
-**Prompt:**
-```
-Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
-From bean basket, to grinding, to scale, water tank, boiler, etc. 
-I'd like to understand technically and visually the flow.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 10
 
 ---
 
@@ -301,6 +283,24 @@ Using this character, please draw a manga that introduces how amazing NanoBanana
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a13d7207-2730-4e16-968e-3ce918b7fec3)** | Likes: 6
+
+---
+
+
+### Product Photography
+
+#### Detailed Infographic Of The Functioning
+
+<img src="https://cdn.bestnanobananaprompt.com/o0zmppafm78_1766041763748.png" width="400" alt="Detailed Infographic Of The Functioning">
+
+**Prompt:**
+```
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura. 
+From bean basket, to grinding, to scale, water tank, boiler, etc. 
+I'd like to understand technically and visually the flow.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8e1971a1-802d-4e62-bb5a-c0c8de6a338f)** | Likes: 10
 
 ---
 
