@@ -61,19 +61,6 @@ Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different 
 
 ---
 
-#### Photo with glare
-
-<img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
-
-**Prompt:**
-```
-Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 24
-
----
-
 #### Highly Detailed1
 
 <img src="https://cdn.bestnanobananaprompt.com/y8vboe0q7z7_1766025398956.jpg" width="400" alt="Highly Detailed1">
@@ -84,6 +71,19 @@ A highly detailed, photorealistic portrait of a blonde woman with fair skin, sho
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=49e69829-0af2-46f8-8f30-993a506bda94)** | Likes: 24
+
+---
+
+#### Photo with glare
+
+<img src="https://cdn.bestnanobananaprompt.com/fs9pnxbiha_1766024970079.webp" width="400" alt="Photo with glare">
+
+**Prompt:**
+```
+Generate an image of a printed retro photo of a young asian man and a young white man in santa hats at a bar, one of them is holding a drink. There should be camera flashlight glare visible on the printed photo. The printed photo should also have a thin white border visible, and should be slightly rotated
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=4dd9a357-55f4-4aba-9607-e6a7bbe6689b)** | Likes: 24
 
 ---
 
@@ -135,7 +135,7 @@ Restore and recolor this picture
 solo travelling in the forest with the map
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 14
 
 ---
 
