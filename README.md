@@ -113,6 +113,19 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
+#### dexter
+
+<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
+
+**Prompt:**
+```
+solo travelling in the forest with the map
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 17
+
+---
+
 #### Restore And Recolor This Picture
 
 <img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
@@ -123,19 +136,6 @@ Restore and recolor this picture
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 17
-
----
-
-#### dexter
-
-<img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
-
-**Prompt:**
-```
-solo travelling in the forest with the map
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 16
 
 ---
 
