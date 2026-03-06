@@ -33,6 +33,35 @@ This repository contains prompts specifically created with and for **GPT Image 1
 
 <!-- GALLERY_START -->
 
+### Creative
+
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 68
+
+---
+
+#### Hyper-realistic 3d Isometric Masterpiece
+
+<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
+
+**Prompt:**
+```
+Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 10
+
+---
+
+
 ### Portrait
 
 #### Hyper-realistic cinematic portrait
@@ -113,6 +142,19 @@ Using the provided image of the subject as reference, transform them into a K-po
 
 ---
 
+#### Restore And Recolor This Picture
+
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+
+**Prompt:**
+```
+Restore and recolor this picture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 18
+
+---
+
 #### dexter
 
 <img src="https://cdn.bestnanobananaprompt.com/ir8o64d0lag_1770790339638.jpg" width="400" alt="dexter">
@@ -123,19 +165,6 @@ solo travelling in the forest with the map
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 17
-
----
-
-#### Restore And Recolor This Picture
-
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
-
-**Prompt:**
-```
-Restore and recolor this picture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 17
 
 ---
 
@@ -166,35 +195,6 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 ---
 
 
-### Creative
-
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
-
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
-
-**Prompt:**
-```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 68
-
----
-
-#### Hyper-realistic 3d Isometric Masterpiece
-
-<img src="https://cdn.bestnanobananaprompt.com/bwwbfvgp05_1766025795470.jpg" width="400" alt="Hyper-realistic 3d Isometric Masterpiece">
-
-**Prompt:**
-```
-Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical scroll painting unfurling across the background. The scene visualizes the historical lineage and cultural heritage of Forbidden City, featuring its most iconic ancient architecture and landmarks rising dynamically from the scroll. • Composition: The scroll flows through the space like a river of time. The landscape creates a panoramic timeline. • Visual Effect: 2D black ink brushstrokes on the paper surface morph seamlessly into high-fidelity 3D solid structures, realistic materials, and vibrant colors. • Details: Faded ancient parchment texture, floating historical calligraphy characters, red seal stamps, atmospheric clouds and fog wrapping around the monuments. • Lighting: Epic golden hour cinematic lighting illuminating the 3D structures, contrasting with the monochrome ink background. • Specs: 8K resolution, depth of field, Unreal Engine 5 render, grand scale. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=5453776f-d2f3-4086-b7af-7580cd9c1cbf)** | Likes: 10
-
----
-
-
 ### Photorealistic
 
 #### Photorealistic Wide Drone Shot 169 Aspect Ratio
@@ -207,19 +207,6 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 33
-
----
-
-#### Diver Playing  Piano
-
-<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
-
-**Prompt:**
-```
-A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 7
 
 ---
 
@@ -237,6 +224,19 @@ The image should feel honest and unposed, with real skin texture, worn materials
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3b858524-77db-4942-84ea-18b3c5c6359a)** | Likes: 7
+
+---
+
+#### Diver Playing  Piano
+
+<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
+
+**Prompt:**
+```
+A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 7
 
 ---
 
