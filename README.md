@@ -86,7 +86,7 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 60
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 61
 
 ---
 
@@ -177,7 +177,7 @@ solo travelling in the forest with the map
 Create a classic department store-style studio portrait from the late 1980s to early 1990s. Only include the people and/or animals in the uploaded photo. Awkwardly wholesome, mall-photo-studio energy. Soft beige and gray muslin backdrop with subtle mottling. Flat, even studio lighting with mild flash glare and gentle shadows under the chin. Subject posed stiffly but earnestly, slightly turned shoulders, hands folded or resting on knees. Styling includes oversized sweaters, tucked polos, denim, pleated khakis, sensible sneakers, and conservative jewelry. Hair is voluminous, feathered, or lightly permed. Expressions are polite, mildly uncomfortable smiles. Colors are muted pastels and warm neutrals. Shot on medium-format film with soft focus, slight grain, and a faint vignette. Composition feels affordable, mass-market, and deeply nostalgic. No modern fashion, no cinematic lighting, no high contrast, no luxury styling. Authentic department-store portrait realism.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=c4c4dfb7-3e12-4da7-bf91-d190e3f53422)** | Likes: 13
 
 ---
 
