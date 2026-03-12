@@ -129,19 +129,6 @@ lifting the bat for the best lead and best score in the field
 
 ---
 
-#### Using The Provided Image Of The Subject As Reference
-
-<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
-
-**Prompt:**
-```
-Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 19
-
----
-
 #### Restore And Recolor This Picture
 
 <img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
@@ -152,6 +139,19 @@ Restore and recolor this picture
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 19
+
+---
+
+#### Using The Provided Image Of The Subject As Reference
+
+<img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
+
+**Prompt:**
+```
+Using the provided image of the subject as reference, transform them into a K-pop idol–style version of themselves, fully preserving their natural facial features, skin tone, ethnicity, and identity. Style the subject with a polished, high-fashion idol aesthetic inspired by contemporary K-pop concept photoshoots, featuring editorial studio lighting with soft glow and clean highlights, a flawless but natural dewy skin finish, and subtle enhancement of the eyes, lips, and hair for a camera-ready look. The subject poses confidently with expressive yet controlled body language, styled in fashion-forward outfits influenced by modern K-pop trends such as elevated streetwear, Y2K accents, chic tailoring, glam punk, or soft ethereal looks, adapted to complement their original clothing style. The atmosphere resembles a professional idol photoshoot, using bold colored backdrops or moody dramatic environments, studio or concert-style lighting, cinematic shadows, and refined color grading, with optional tasteful details like layered jewelry, belts, or statement accessories kept cohesive and restrained. The final image should feel like an authentic K-pop concept photo—crisp, stylish, and aspirational—projecting polished charisma and star presence while clearly remaining the same person.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 19
 
 ---
 
@@ -210,6 +210,19 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 
 ---
 
+#### Diver Playing  Piano
+
+<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
+
+**Prompt:**
+```
+A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 7
+
+---
+
 #### Photorealistic Candid Photograph Of An Elderly
 
 <img src="https://cdn.bestnanobananaprompt.com/um2hbx2yz5r_1766042248632.png" width="400" alt="Photorealistic Candid Photograph Of An Elderly">
@@ -224,19 +237,6 @@ The image should feel honest and unposed, with real skin texture, worn materials
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=3b858524-77db-4942-84ea-18b3c5c6359a)** | Likes: 7
-
----
-
-#### Diver Playing  Piano
-
-<img src="https://cdn.bestnanobananaprompt.com/rk8e4s1yps_1766024935171.webp" width="400" alt="Diver Playing  Piano">
-
-**Prompt:**
-```
-A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 7
 
 ---
 
