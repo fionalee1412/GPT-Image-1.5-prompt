@@ -164,7 +164,7 @@ Using the provided image of the subject as reference, transform them into a K-po
 solo travelling in the forest with the map
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=501e83f5-8f6e-4530-85de-ec91ff3883a5)** | Likes: 18
 
 ---
 
