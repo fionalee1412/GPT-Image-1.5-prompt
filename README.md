@@ -64,6 +64,19 @@ Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless tra
 
 ### Portrait
 
+#### 33 Grid Of The Same Girl Wearing A Pink Dress
+
+<img src="https://cdn.bestnanobananaprompt.com/5nbmocsk92o_1766245621924.png" width="400" alt="33 Grid Of The Same Girl Wearing A Pink Dress">
+
+**Prompt:**
+```
+Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 69
+
+---
+
 #### Hyper-realistic cinematic portrait
 
 <img src="https://cdn.bestnanobananaprompt.com/rj38s45gs1p_1766129701591.jpg" width="400" alt="Hyper-realistic cinematic portrait">
@@ -74,19 +87,6 @@ Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a mode
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=a1abae43-6b48-49a2-b604-66ab7152eeac)** | Likes: 69
-
----
-
-#### 33 Grid Of The Same Girl Wearing A Pink Dress
-
-<img src="https://cdn.bestnanobananaprompt.com/5nbmocsk92o_1766245621924.png" width="400" alt="33 Grid Of The Same Girl Wearing A Pink Dress">
-
-**Prompt:**
-```
-Generate a 3×3 grid of the same girl wearing a pink dress, showing 9 different facial expressions while maintaining perfect facial structure consistency. Only expression changes - same face, same hairstyle, same clothing, same lighting. Grid expressions: Cell 1: Genuine happy smile (teeth showing), Cell 2: Surprised (wide eyes, open mouth), Cell 3: Thoughtful (slight frown, looking away), Cell 4: Laughing (eyes closed, big smile), Cell 5: Neutral (original reference), Cell 6: Serious/confident (direct gaze), Cell 7: Playful wink, Cell 8: Slight smile (subtle), Cell 9: Excited (big eyes, smile). Each expression should be authentic and natural, not exaggerated. Consistent soft portrait lighting, same background, same head angle. Style: acting headshot portfolio, emotion reference. 4K resolution, facial structure consistency absolute, micro-expressions realistic.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=793cf7ca-16b0-4e40-91bb-95983b1cfe4c)** | Likes: 68
 
 ---
 
@@ -129,19 +129,6 @@ lifting the bat for the best lead and best score in the field
 
 ---
 
-#### Restore And Recolor This Picture
-
-<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
-
-**Prompt:**
-```
-Restore and recolor this picture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 19
-
----
-
 #### Using The Provided Image Of The Subject As Reference
 
 <img src="https://cdn.bestnanobananaprompt.com/v9bdtspwm3_1766023599792.jpg" width="400" alt="Using The Provided Image Of The Subject As Reference">
@@ -152,6 +139,19 @@ Using the provided image of the subject as reference, transform them into a K-po
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=8ecd3eed-e6f5-4820-bc6a-ac5a8e807d38)** | Likes: 19
+
+---
+
+#### Restore And Recolor This Picture
+
+<img src="https://cdn.bestnanobananaprompt.com/96v2hura3q6_1766044394330.png" width="400" alt="Restore And Recolor This Picture">
+
+**Prompt:**
+```
+Restore and recolor this picture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=7282d2d5-e6bf-46c7-baa5-67d9f0b29728)** | Likes: 19
 
 ---
 
@@ -206,7 +206,7 @@ Transform the subjects or image into an adorable chibi-style character with a ti
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 35
 
 ---
 
@@ -219,7 +219,7 @@ A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl
 A diver playing an underwater piano with mermaids watching. Hyper-realistic amateur photography
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 8
+**[View on Website](https://bestnanobananaprompt.com/gpt-image-1.5?id=9165db0e-c715-4269-bada-5351f5e009fe)** | Likes: 9
 
 ---
 
